@@ -1,9 +1,10 @@
 ---
 template: blog-post
-title:  "[Conference #3] - OggCamp 18"
-date:   2018-08-18 22:00
+title: "[Conference #3] - OggCamp 18"
 slug: conference-3-oggcamp-18
+date: 2018-08-18 22:00
 description: Coming Soon
+featuredImage: https://pbs.twimg.com/media/Dk31VPGXgAAT-y2?format=jpg&name=large
 ---
 
 I first found out about this un-conference only two days before it was to take place, from [May][may] who I met at BSides Manchester (my last Conference) two days prior, which came up in conversation since she was on Crew and was asking another friend of hers if they were attending.
