@@ -64,5 +64,3 @@ Going on from this point we did put it could be "linking up with existing social
 We were the winning team, winning a £20 Amazon gift card each, but all of us came up with good ideas and studied the data well, coming up with good solutions in a very short amount of time, if they run this event again with a different brief I definitely would attend.
 
 The slides are on my [Google Drive](https://docs.google.com/presentation/d/1hPDAp4nJ4t_YRSnJMQVuZfcGm_JJUz0B4xoLVT1BHfY/edit?usp=sharing), but were put together within the last hour, so Unfortunately they are slightly rough and don't completely stand on their own I think, but either way I enjoyed myself and my team.
-
-![Certificate and Amazon Gift Card Reward](https://i.imgur.com/JD3bbWT.jpg)
