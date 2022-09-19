@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is an award winning DevSecOps and community advocate, based in Manchester, UK. Co-founder and Director of [INEVITABLE](https://inevitableinnovations.com/), an AI Start-up company.
+He is an award winning DevSecOps and community advocate, based in Manchester, UK. Co-founder and Director of INEVITABLE, an AI Start-up company.
