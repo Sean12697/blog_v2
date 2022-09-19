@@ -1,9 +1,10 @@
 ---
 template: blog-post
-title:  "[Hackathon #10] - Free Your Mind, with Code Nation and EMIS Health"
-date:   2019-06-01 23:00
+title: "[Hackathon #10] - Free Your Mind, with Code Nation and EMIS Health"
 slug: /hackathon-10-free-your-mind
+date: 2019-06-01 23:00
 description: Coming Soon
+featuredImage: https://i.imgur.com/AGyGJ5O.jpg
 ---
 
 This is the first Hackathon I will be attending after becoming a co-founder of [Inevitable](https://twitter.com/weareinevitable), meaning I was able to discuss and grow an idea before the day of the hackathon (which I rarely ever do).
