@@ -3,9 +3,9 @@ template: index-page
 slug: /
 title: Sean O'Mahoney
 tagline: Chief Wizard
-featuredImage: /assets/ezgif.com-gif-maker-2-1-.jpg
+featuredImage: /assets/img_6315_2.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is an award winning DevSecOps and community advocate, based in Manchester, UK. Co-founder and Director of INEVITABLE, an AI Start-up company.
+Co-founder and Director of [INEVITABLE](https://inevitableinnovations.com/), he is a technology and beer enthusiast living in Manchester, United Kingdom.
