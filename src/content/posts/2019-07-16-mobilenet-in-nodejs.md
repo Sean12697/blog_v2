@@ -3,6 +3,7 @@ template: blog-post
 title:  "Development - MobileNet in NodeJS (Backend)"
 date:   2019-07-15 20:00
 slug: /mobilenet-in-nodejs
+description: Coming Soon
 ---
 
 The origin of this blog post started when I wanted to be able to classify images on a backend server as a learning exercise, to able to expand upon it for a project we are working on at my company (using a general object classifier as a baseline), and to also use computational power which will be needed further on. 

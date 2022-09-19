@@ -3,6 +3,7 @@ template: blog-post
 title:  "Challenge - Village Software Data Quest"
 date:   2018-04-20 20:00
 slug: /challenge-village-software-data-quest
+description: Coming Soon
 ---
 
 ![Group Picture](https://villagesoftware.co.uk/media/1233/_dsc6146-2.jpg)

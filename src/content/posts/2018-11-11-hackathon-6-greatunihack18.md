@@ -3,6 +3,7 @@ template: blog-post
 title:  "[Hackathon #6] - GreatUniHack 18"
 date:   2018-11-11 20:00
 slug: hackathon-6-greatunihack18
+description: Coming Soon
 ---
 
 This is the first Hackathon I have attended with a rough team, being a peer on my course ([Pritam Sangani](https://twitter.com/pritamsangani){:target="_blank"}), as well as a few ideas for what we will produce.

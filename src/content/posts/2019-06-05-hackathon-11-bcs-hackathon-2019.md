@@ -3,6 +3,7 @@ template: blog-post
 title:  "[Hackathon #11] - BCS Hackathon 2019"
 date:   2019-06-05 23:00
 slug: /hackathon-11-bcs-hackathon-2019
+description: Coming Soon
 ---
 
 This is the first hackathon I am attending along with my co-founder, [Ben Grubert](https://twitter.com/Ben_Grubert){:target="_blank"}, which is of benefit since we both complement each other in terms of skills and abilities (working well together). Due to this, we did have a few prior discussions on ideas before the hack'.

@@ -3,6 +3,7 @@ template: blog-post
 title:  "My Experience with Static SSR"
 date:   2019-04-08 22:00
 slug: /my-experience-with-static-ssr
+description: Coming Soon
 ---
 
 Recently I have been creating websites in a statically generated way on a server, this being referred to as Static SSR (Server Side Rendering), where a server essentially generates HTML files based on code written, then those files are served to the user.

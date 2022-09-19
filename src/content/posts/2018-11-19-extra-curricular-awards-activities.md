@@ -3,6 +3,7 @@ template: blog-post
 title:  "University - Extra-Curricular Awards"
 date:   2018-11-19 19:00
 slug: /extra-curricular-awards-activities
+description: Coming Soon
 ---
 
 The Extra-Curricular Award is an award given for attending five different activities (some had been split into parts), for at least a total of 30 hours (10 hours having to be interdisciplinary, outside my course).

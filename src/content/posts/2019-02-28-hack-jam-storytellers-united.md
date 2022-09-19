@@ -3,6 +3,7 @@ template: blog-post
 title:  "Hack Jam - Storytellers United"
 date:   2019-02-28 20:00
 slug: /hack-jam-storytellers-united
+description: Coming Soon
 ---
 
 This event was emailed to us through our student email by Peter McKenna, it was promoted as a "BBC Digital Cities Hackathon" with the following content:

@@ -3,6 +3,7 @@ template: blog-post
 title:  "Challenge - Creative Data Lab"
 date:   2018-11-29 17:00
 slug: /challenge-creative-data-lab
+description: Coming Soon
 ---
 
 This event was made aware to us from an email we received through the forum of our faculty, there wasn't much information to work from ahead of time before signing up to the event, on the line below to describe the general idea of the lab:
