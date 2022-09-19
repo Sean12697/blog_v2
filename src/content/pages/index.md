@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Sean O'Mahoney
+tagline: Chief Wizard
+featuredImage: /assets/ezgif.com-gif-maker-2-1-.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+He is an award winning DevSecOps and community adovcate, based in Manchester, UK. Co-founder and Director of INEVITABLE, an AI Start-up company.
