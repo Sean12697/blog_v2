@@ -1,16 +1,20 @@
 {
   "socialIcons": [
     {
+      "icon": "polywork",
+      "url": "https://www.polywork.com/sean12697"
+    },
+    {
       "icon": "twitter",
       "url": "https://twitter.com/Sean12697"
     },
     {
-      "icon": "linkedin",
-      "url": "https://www.linkedin.com/in/sean12697/"
-    },
-    {
       "icon": "github",
       "url": "https://github.com/sean12697/"
+    },
+    {
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/sean12697/"
     }
   ]
 }
