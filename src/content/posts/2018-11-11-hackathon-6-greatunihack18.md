@@ -6,11 +6,11 @@ slug: hackathon-6-greatunihack18
 description: Coming Soon
 ---
 
-This is the first Hackathon I have attended with a rough team, being a peer on my course ([Pritam Sangani](https://twitter.com/pritamsangani){:target="_blank"}), as well as a few ideas for what we will produce.
+This is the first Hackathon I have attended with a rough team, being a peer on my course ([Pritam Sangani](https://twitter.com/pritamsangani)), as well as a few ideas for what we will produce.
 
 Originally my idea was to participate on the "Online Collaboration" track, wanting to potentially create something which was less of a tool for active productivity, but more artsy (collaborating to produce it via online means), or passively like how Google potentially uses your data if you drive (with others) to judge if there are traffic jams, displaying them on Google Maps.
 
-But when it came to the day of GreatUniHack I had a change of mind, the night before I was looking at the sponsor's challenges and was interested in American Express's, which was to "recreate a modern website as if it were made in the 1990s", due to the fact I had watched a popular video ["If Facebook were invented in the '90s..."](https://www.youtube.com/watch?v=xrYRH3PYYT0){:target="_blank"} which was made for satire but could have been a good basis.
+But when it came to the day of GreatUniHack I had a change of mind, the night before I was looking at the sponsor's challenges and was interested in American Express's, which was to "recreate a modern website as if it were made in the 1990s", due to the fact I had watched a popular video ["If Facebook were invented in the '90s..."](https://www.youtube.com/watch?v=xrYRH3PYYT0) which was made for satire but could have been a good basis.
 
 This idea would have been humorous but I didn't feel it was original enough to win, so I thought of doing Visa's challenge which was to create the "most innovative payment experience in a clickable or paper prototype". My idea would be to take a more human centered approach, thinking why card/online payments sometimes don't happen, gathering statistics and coming up with a solution, likely mentioning card fraud.
 
@@ -30,7 +30,7 @@ Both of us using Web Based technologies we used NodeJS (Express) for our core on
 
 Pritam's jobs were to handle the Express routes, when the front-end were to do API requests to the backend (getting/posting messages and logins/signups), the MongoDB itself and when it's within these requests, getting/setting the cookies, deployment from GitHub to Heroku (quite simple), then also DNS setup for the domain I bought (for 84 pence).
 
-My roles were creating the entirety of the design elements, including the ASCii Art (mainly used from else where or converted from [picascii](http://picascii.com/){:target="_blank"}), as well as the majority of the front-end interacts / display from and to the server.
+My roles were creating the entirety of the design elements, including the ASCii Art (mainly used from else where or converted from [picascii](http://picascii.com/)), as well as the majority of the front-end interacts / display from and to the server.
 
 ## VS: Live Share (Extension)
 
@@ -52,7 +52,7 @@ The next one after that was working out how to set up the DNS records on Nameche
 
 After this things ran pretty smoothly until around midnight, when we were both tired and were getting slower at picking up minor mistakes. Around midnight (when it was midnight pizza) we were adding the signin/signup logic and adding a cookie from that, I had a rough idea and decided to think on it as we were having pizza.
 
-My solution was definitely interesting, when the user wasn't logged in I pushed every word they entered into an array, checking the length and indexed elements within it to check how far along are they (if it's a length of one they should have entered either 'signin' or 'signup' in index 0, or 'arnie' for the mIRC easter egg). Pritam struggled slightly to wrap this head around this but it was getting late so we had some sleep (this function can be found [here](https://github.com/Sean12697/SlackChat/blob/master/script.js#L130){:target="_blank"} in the Github source code).
+My solution was definitely interesting, when the user wasn't logged in I pushed every word they entered into an array, checking the length and indexed elements within it to check how far along are they (if it's a length of one they should have entered either 'signin' or 'signup' in index 0, or 'arnie' for the mIRC easter egg). Pritam struggled slightly to wrap this head around this but it was getting late so we had some sleep (this function can be found [here](https://github.com/Sean12697/SlackChat/blob/master/script.js#L130) in the Github source code).
 
 The next one came to the logic of handling multiple key presses, I implemented a solution that worked online after I added the functionality to change colours, basically having it as a CSS property that's white by default, but then using the keyboard character number as an offset (0 on the keyboard is 48 and 9 is 57) to an array of set rgb values.
 

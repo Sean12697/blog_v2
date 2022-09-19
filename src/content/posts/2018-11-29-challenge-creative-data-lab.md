@@ -30,7 +30,7 @@ After refining our idea, letting Donika produce a User Journey, which I heavily 
 
 ### Study: Gamification - Pokemon Go
 
-The first study I conducted was on the effectiveness of Gamification, how it increases step counts, luckily I was able to find a very good paper on Pokemon Go ([pdf](https://www.bmj.com/content/bmj/355/bmj.i6270.full.pdf){:target="_blank"}), "Gotta catch’em all! Pokémon GO and physical activity among young adults: difference in differences study".
+The first study I conducted was on the effectiveness of Gamification, how it increases step counts, luckily I was able to find a very good paper on Pokemon Go ([pdf](https://www.bmj.com/content/bmj/355/bmj.i6270.full.pdf)), "Gotta catch’em all! Pokémon GO and physical activity among young adults: difference in differences study".
 
 In this study I was able to extract that during the first week of release, players of Pokemon Go walked roughly 1000 more steps then those that did not play the game, half of which did fit into our age demographic (25+ years of age).
 
@@ -44,7 +44,7 @@ Apps similar to ours would be ones that allowed payment for a service (which you
 
 During research I found that the Startbucks App had 476,141 downloads on Android, which is a fair sum and higher than any other (Costa having 6,930 downloads for example), this promoted further research on Startbucks and their strategy.
 
-On [this](https://appsamurai.com/mobile-app-success-story-starbucks-app/){:target="_blank"} article I found that in America 23.4 Million people used the Starbucks app for mobile transactions, which is more than Apple Pay at 22 Million and Google Pay at 11.1 Million.
+On [this](https://appsamurai.com/mobile-app-success-story-starbucks-app/) article I found that in America 23.4 Million people used the Starbucks app for mobile transactions, which is more than Apple Pay at 22 Million and Google Pay at 11.1 Million.
 
 Clearly Starbucks is doing something right and TfL might want to further research into this for their Oyster Card App, but the article mentioned three main strategies they used and we implemented into our idea.
 
@@ -62,6 +62,6 @@ Going on from this point we did put it could be "linking up with existing social
 
 We were the winning team, winning a £20 Amazon gift card each, but all of us came up with good ideas and studied the data well, coming up with good solutions in a very short amount of time, if they run this event again with a different brief I definitely would attend.
 
-The slides are on my [Google Drive](https://docs.google.com/presentation/d/1hPDAp4nJ4t_YRSnJMQVuZfcGm_JJUz0B4xoLVT1BHfY/edit?usp=sharing){:target="_blank"}, but were put together within the last hour, so Unfortunately they are slightly rough and don't completely stand on their own I think, but either way I enjoyed myself and my team.
+The slides are on my [Google Drive](https://docs.google.com/presentation/d/1hPDAp4nJ4t_YRSnJMQVuZfcGm_JJUz0B4xoLVT1BHfY/edit?usp=sharing), but were put together within the last hour, so Unfortunately they are slightly rough and don't completely stand on their own I think, but either way I enjoyed myself and my team.
 
 ![Certificate and Amazon Gift Card Reward](https://i.imgur.com/JD3bbWT.jpg)

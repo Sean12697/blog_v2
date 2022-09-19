@@ -197,6 +197,7 @@ collections:
                     "medium",
                     "behance",
                     "vk",
+                    "polywork"
                   ]
                 hint: "Select the Icon"
               - widget: string

@@ -6,7 +6,7 @@ slug: /hackathon-11-bcs-hackathon-2019
 description: Coming Soon
 ---
 
-This is the first hackathon I am attending along with my co-founder, [Ben Grubert](https://twitter.com/Ben_Grubert){:target="_blank"}, which is of benefit since we both complement each other in terms of skills and abilities (working well together). Due to this, we did have a few prior discussions on ideas before the hack'.
+This is the first hackathon I am attending along with my co-founder, [Ben Grubert](https://twitter.com/Ben_Grubert), which is of benefit since we both complement each other in terms of skills and abilities (working well together). Due to this, we did have a few prior discussions on ideas before the hack'.
 
 ## Initial Idea
 
@@ -24,10 +24,10 @@ On the day Ben gave a pitch of our idea and we then tried to recruit others onto
 
 After discussions with a few people, our final team ended up with the following members:
 
-- [Me](https://www.linkedin.com/in/sean12697/){:target="_blank"} (Full Stack Developer)
-- [Ben Grubert](https://www.linkedin.com/in/ben-grubert-0a7b71b7/){:target="_blank"} (Manager)
-- [Panagiota Mitropoulou](https://www.linkedin.com/in/panagiota-mitropoulou-5b8a92107/){:target="_blank"} (Clinician)
-- [Rishabh Rawal](https://www.linkedin.com/in/rawalrishabh/){:target="_blank"} (Java Developer)
+- [Me](https://www.linkedin.com/in/sean12697/) (Full Stack Developer)
+- [Ben Grubert](https://www.linkedin.com/in/ben-grubert-0a7b71b7/) (Manager)
+- [Panagiota Mitropoulou](https://www.linkedin.com/in/panagiota-mitropoulou-5b8a92107/) (Clinician)
+- [Rishabh Rawal](https://www.linkedin.com/in/rawalrishabh/) (Java Developer)
 
 Panagiota was of particular benefit, being that she has more knowledge about the inner workings of wards also.
 
@@ -73,12 +73,12 @@ Ben lead the Qualitative Research, visiting Manchester Royal Eye Hospital to con
 
 ### Quantitative Research 
 
-Panagiota mainly lead Quantitative Research, finding the following papers to back our idea and provide statistics for the business case (combined with figures from [NHS Reference Costs](https://improvement.nhs.uk/resources/reference-costs/){:target="_blank"}):
+Panagiota mainly lead Quantitative Research, finding the following papers to back our idea and provide statistics for the business case (combined with figures from [NHS Reference Costs](https://improvement.nhs.uk/resources/reference-costs/)):
 
 - Britteon et al (2017). Association between psychological health and wound complications after surgery. British Journal of Surgery.​
 - Broadbent, E., Petrie, K. J., Alley, P. G., & Booth, R. J. (2003). Psychological stress impairs early wound repair following surgery. Psychosomatic Medicine.
 
-[Ryan Kerstein](https://twitter.com/Ryan_L_K){:target="_blank"}, one of the very helpful mentors and a Surgeon, was able to bring up the statistic, although unfortunately no sources (apart from one we found previously through NHS complaints).
+[Ryan Kerstein](https://twitter.com/Ryan_L_K), one of the very helpful mentors and a Surgeon, was able to bring up the statistic, although unfortunately no sources (apart from one we found previously through NHS complaints).
 
 - 47% Increase in Surgical Complications
 - 33% Complaints due to poor communication
@@ -106,7 +106,7 @@ The few hours we did have left flew by and left us a demo to present and just en
 
 Ben and Panagiota were the two from our team to speak, where I would ensure that the demo ran smoothly and both our chosen participants received the appropriate text messages to our demo service.
 
-We listened to the other demos and felt there were many other great ideas, especially from the team [Sophie Ashcroft](https://twitter.com/ms_s_ashcroft){:target="_blank"} was on (a good friend of mine), we were quite unsure where we would place, personally I thought we were in the top three.
+We listened to the other demos and felt there were many other great ideas, especially from the team [Sophie Ashcroft](https://twitter.com/ms_s_ashcroft) was on (a good friend of mine), we were quite unsure where we would place, personally I thought we were in the top three.
 
 Once it came to the announcements... We won, with Sophie's team coming second, meaning we (Ben and Panagiota) had to present our idea again at the BCS Conference, shortly after having a small interview.
 

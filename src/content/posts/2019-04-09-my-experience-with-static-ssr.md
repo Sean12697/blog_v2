@@ -14,7 +14,7 @@ Then second was to re-create my portfolio (again), which I wanted to do wth JSON
 
 ## Quick MVP
 
-Before creating anything, I wanted to see how simple it would be to create a statically generated website, so using NodeJS (my language of choice) and its fs (file system) module, I created what can be seen in this [GitHub Repo](https://github.com/Sean12697/simple-static-site-generator){:target="_blank"}. It's fairly basic and is used for demonstration purposes, but has the core principles of what was to become my current portfolio, a json object, custom string interpolation (concatenation) templating and `fs.writeFileSync()`.
+Before creating anything, I wanted to see how simple it would be to create a statically generated website, so using NodeJS (my language of choice) and its fs (file system) module, I created what can be seen in this [GitHub Repo](https://github.com/Sean12697/simple-static-site-generator). It's fairly basic and is used for demonstration purposes, but has the core principles of what was to become my current portfolio, a json object, custom string interpolation (concatenation) templating and `fs.writeFileSync()`.
 
 ## Jekyll in NodeJS
 
@@ -22,7 +22,7 @@ For fun, before re-creating my portfolio, I thought I would try to recreate the 
 
 This was not too difficult to achieve, where I did the majority of within a few hours one Sunday night, since I was using an npm package (kramed) to convert the actual markdown into HTML, then the actual default Jekyll theme for mine (which I split into the core components).
 
-The GitHub Repo being [JekyllJS](https://github.com/Sean12697/JekyllJS){:target="_blank"}, then it also being deployed on [Netlify](https://zealous-jang-b5c7b4.netlify.com/){:target="_blank"}.
+The GitHub Repo being [JekyllJS](https://github.com/Sean12697/JekyllJS), then it also being deployed on [Netlify](https://zealous-jang-b5c7b4.netlify.com/).
 
 Although, there were a few key learning points that I should share, the first being always ensure you know where the root is, meaning if you're on index.html and go further in the site (into another folder), if your templates just have links to `./style.css` when you go to another folders html it will break, since there will likely not be a `./style.css` file (`../style.css` instead).
 
@@ -32,7 +32,7 @@ Then the last two/three points are to do with folders/file, the first being if a
 
 ## Portfolio (v4)
 
-With the above knowledge I was set to create the fourth iteration of [my portfolio](https://seanomahoney.com/){:target="_blank"}, using the same index theme to its third iteration (being based of Spotify, since I love music), along with improving performance along the way (which static ssr helps with, that I cover in my talk), which I still thank [Harry Roberts](https://twitter.com/csswizardry){:target="_blank"} for and his "Front-end Performance" workshop (with 300+ slides that we got to keep).
+With the above knowledge I was set to create the fourth iteration of [my portfolio](https://seanomahoney.com/), using the same index theme to its third iteration (being based of Spotify, since I love music), along with improving performance along the way (which static ssr helps with, that I cover in my talk), which I still thank [Harry Roberts](https://twitter.com/csswizardry) for and his "Front-end Performance" workshop (with 300+ slides that we got to keep).
 
 ### Tags
 
@@ -118,10 +118,10 @@ window.addEventListener('load', () => {
 
 ### Scroll Snapping
 
-In the past I have tried to implement scroll snapping nativly in CSS, although had ran into compatabily issues previously, although adding `@supports (scroll-snap-align: center) and (scroll-snap-type: x mandatory)` around the attempted implementation in CSS, then following a blog post by Xander Gottlieb I had with [the right padding problem](https://blog.alexandergottlieb.com/overflow-scroll-and-the-right-padding-problem-a-css-only-solution-6d442915b3f4){:target="_blank"}, I was able to finally implement it (which can be seen in the mobile version of my portfolio).
+In the past I have tried to implement scroll snapping nativly in CSS, although had ran into compatabily issues previously, although adding `@supports (scroll-snap-align: center) and (scroll-snap-type: x mandatory)` around the attempted implementation in CSS, then following a blog post by Xander Gottlieb I had with [the right padding problem](https://blog.alexandergottlieb.com/overflow-scroll-and-the-right-padding-problem-a-css-only-solution-6d442915b3f4), I was able to finally implement it (which can be seen in the mobile version of my portfolio).
 
 ## Workshop (Creating Your Own Static Website Generator)
 
-Feeling inspired to show others how cool and optimised Static SSR is, I thought I would do a workshop/talk on it, first being ran at CodeUp Manchester, where I ended up creating this [GitHub Repo](https://github.com/Sean12697/codeup-static-ssr-demo){:target="_blank"}, it mostly went to plan, although in simplification the issue arose of the `fs` module not finding the `./_site` folder, due to it being blank and Git not adding it to the repo due to that fact (next time I will use `shelljs`).
+Feeling inspired to show others how cool and optimised Static SSR is, I thought I would do a workshop/talk on it, first being ran at CodeUp Manchester, where I ended up creating this [GitHub Repo](https://github.com/Sean12697/codeup-static-ssr-demo), it mostly went to plan, although in simplification the issue arose of the `fs` module not finding the `./_site` folder, due to it being blank and Git not adding it to the repo due to that fact (next time I will use `shelljs`).
 
-The slides for then can be seen on [SlideShare](https://www.slideshare.net/SeanOMahoney3/creating-your-own-static-website-generator){:target="_blank"}, and the next time I will be running it will be at the [Manchester Web Meetup](https://www.meetup.com/Manchester-Web-Meetup/events/260446380/){:target="_blank"} on the 17th of April, which will be less of a workshop and more of a talk on performance (especially verses Client Side Rendering, which React and Angular are examples of).
+The slides for then can be seen on [SlideShare](https://www.slideshare.net/SeanOMahoney3/creating-your-own-static-website-generator), and the next time I will be running it will be at the [Manchester Web Meetup](https://www.meetup.com/Manchester-Web-Meetup/events/260446380/) on the 17th of April, which will be less of a workshop and more of a talk on performance (especially verses Client Side Rendering, which React and Angular are examples of).

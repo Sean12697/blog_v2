@@ -6,17 +6,17 @@ slug: /hackathon-10-free-your-mind
 description: Coming Soon
 ---
 
-This is the first Hackathon I will be attending after becoming a co-founder of [Inevitable](https://twitter.com/weareinevitable){:target="_blank"}, meaning I was able to discuss and grow an idea before the day of the hackathon (which I rarely ever do).
+This is the first Hackathon I will be attending after becoming a co-founder of [Inevitable](https://twitter.com/weareinevitable), meaning I was able to discuss and grow an idea before the day of the hackathon (which I rarely ever do).
 
 ## Initial Idea
 
 My base idea was a platform to monitor a users social media feeds in order to predict patterns and do sentiment analysis, due to it being a one day hackathon, this seemed a reasonable project to design, even if I did end up in a team of one.
 
-The idea grew more when [Ben](https://twitter.com/Ben_Grubert){:target="_blank"}, my co-founder, pointed out that one of the signs of suicide could be detected through the use of this platform, that being:
+The idea grew more when [Ben](https://twitter.com/Ben_Grubert), my co-founder, pointed out that one of the signs of suicide could be detected through the use of this platform, that being:
 
 > <b>Sudden calmness:</b> Suddenly becoming calm after a period of depression or moodiness can be a sign that the person has made a decision to end his or her life.
 
-As seen in a clinical article for [Recognizing Suicidal Behavior](https://my.clevelandclinic.org/health/articles/11352-recognizing-suicidal-behavior){:target="_blank"}.
+As seen in a clinical article for [Recognizing Suicidal Behavior](https://my.clevelandclinic.org/health/articles/11352-recognizing-suicidal-behavior).
 
 A few other points that Ben made for me to work with are that there are two other good factors than can predict issues, the first being water usage, how much a person drinks and showers/baths, then the second electricity usage, indicating a persons circadian rhythm. Both of which if disrupted from a persons normal routine can be strong indicators of problems.
 

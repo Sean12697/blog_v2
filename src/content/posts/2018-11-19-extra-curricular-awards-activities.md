@@ -16,28 +16,28 @@ I had been awarded this within my first year, although found myself attending so
 This was the first activity I had attended and introduced us to creating Android Apps in Android Studio, this would provide useful in second year since the tasks we did in this award activity, were lab tasks to help us produce the first assignment.
 
 When it came to my second year assignment I could easily go back to the [MMUCheeseApp
-](https://github.com/Sean12697/MMUCheeseApp){:target="_blank"} I produced and quickly remember how I created an app with a list view, then from there implement the features that would lead me to gain 100% for that particular assignment.
+](https://github.com/Sean12697/MMUCheeseApp) I produced and quickly remember how I created an app with a list view, then from there implement the features that would lead me to gain 100% for that particular assignment.
 
-This "Cheese App" was one of two Android Apps we produced for the award, but the other was a calculator, pretty simple but did introduce us to different layout types, as well as being further practice for learning to create an app (which I have also put on my [GitHub](https://github.com/Sean12697/Calculator){:target="_blank"}).
+This "Cheese App" was one of two Android Apps we produced for the award, but the other was a calculator, pretty simple but did introduce us to different layout types, as well as being further practice for learning to create an app (which I have also put on my [GitHub](https://github.com/Sean12697/Calculator)).
 
 ### Links
 
-<!-- - Eventbrite: [](){:target="_blank"} -->
-- Github Project: [https://github.com/Sean12697/MMUCheeseApp](https://github.com/Sean12697/MMUCheeseApp){:target="_blank"}
+<!-- - Eventbrite: []() -->
+- Github Project: [https://github.com/Sean12697/MMUCheeseApp](https://github.com/Sean12697/MMUCheeseApp)
 
 ## C++ Programming: Intro
 *Hours: 9hrs (19hrs)*
 
-Being quiet a low level language, in the first part of this activity we initially learned how C++ has header files and how the general language works, this as demonstrated by producing a command line application which used randomness to calculate PI (being on my [GitHub](https://github.com/Sean12697/CalculatePi/blob/master/CalculatePi/CalculatePi.cpp){:target="_blank"}).
+Being quiet a low level language, in the first part of this activity we initially learned how C++ has header files and how the general language works, this as demonstrated by producing a command line application which used randomness to calculate PI (being on my [GitHub](https://github.com/Sean12697/CalculatePi/blob/master/CalculatePi/CalculatePi.cpp)).
 
 From there the next two labs were dedicated to using C++ in a games aspect, due to the lecturer teaching this activity being a tutor for games, but also for how prevalent it is used within the gaming industry.
 
-Luckily he did supply us with some base code to work on, which I cloned and pushed to [GitHub](https://github.com/Sean12697/SFML_Avatar_Intro){:target="_blank"} once I finished my modifications in the activities, although from this I have understood that I prefer higher level languages (not having to necessarily deal with memory pointers as well, which I learned in my Algorithms unit using C++).
+Luckily he did supply us with some base code to work on, which I cloned and pushed to [GitHub](https://github.com/Sean12697/SFML_Avatar_Intro) once I finished my modifications in the activities, although from this I have understood that I prefer higher level languages (not having to necessarily deal with memory pointers as well, which I learned in my Algorithms unit using C++).
 
 ### Links
 
-<!-- - Eventbrite: [](){:target="_blank"} -->
-- Github Project: [https://github.com/Sean12697/CalculatePi](https://github.com/Sean12697/CalculatePi){:target="_blank"}
+<!-- - Eventbrite: []() -->
+- Github Project: [https://github.com/Sean12697/CalculatePi](https://github.com/Sean12697/CalculatePi)
 
 ## Building 3D Models
 *Hours: 3hrs (22hrs)*
@@ -48,8 +48,8 @@ This activity simply introduced us to the complex program that is Maya, we were 
 
 <!-- ### Links -->
 
-<!-- - Eventbrite: [](){:target="_blank"} -->
-<!-- - Github Project: [](){:target="_blank"} -->
+<!-- - Eventbrite: []() -->
+<!-- - Github Project: []() -->
 
 ## Web Mapping: Intro
 *Hours: 3hrs (25hrs)*
@@ -58,8 +58,8 @@ COMING SOON
 
 ### Links
 
-<!-- - Eventbrite: [](){:target="_blank"} -->
-- Github Project: [https://github.com/Sean12697/Web-Mapping-Heatmap](https://github.com/Sean12697/Web-Mapping-Heatmap){:target="_blank"}
+<!-- - Eventbrite: []() -->
+- Github Project: [https://github.com/Sean12697/Web-Mapping-Heatmap](https://github.com/Sean12697/Web-Mapping-Heatmap)
 
 ## Internet of Things: Building Smart Environments
 *Hours: 10hrs (35hrs)*
@@ -89,12 +89,12 @@ rfidTopic.publish(new MqttMessage(rfid.getBytes()));
 
 Using this knowledge for roughly the last three hours we were given the task of creating something with the Phidget devices, as well as the various forms of communication we can use to transmit data and pieces of scarp material to build with (cardboard). 
 
-My small team of two of my peers created a simple door opener, which would activate a servo when you scan a valid RFID card onto the sensor, the code for this can be found on my peers [GitHub](https://github.com/MichaelNaylor89/PhidgetDoorOpener/blob/master/RFIDMotor.java){:target="_blank"}.
+My small team of two of my peers created a simple door opener, which would activate a servo when you scan a valid RFID card onto the sensor, the code for this can be found on my peers [GitHub](https://github.com/MichaelNaylor89/PhidgetDoorOpener/blob/master/RFIDMotor.java).
 
 ### Links
 
-<!-- - Eventbrite: [](){:target="_blank"} -->
-- Github Project: [https://github.com/Sean12697/PhidgetDoorOpener](https://github.com/Sean12697/PhidgetDoorOpener){:target="_blank"}
+<!-- - Eventbrite: []() -->
+- Github Project: [https://github.com/Sean12697/PhidgetDoorOpener](https://github.com/Sean12697/PhidgetDoorOpener)
 
 ## MATLAB® for Scientists & Engineers / Research
 *Hours: 10hrs (45hrs)*
@@ -111,8 +111,8 @@ For this chapter we used the popular image of lena to
 
 ### Links
 
-- Eventbrite: [](){:target="_blank"}
-- Github Project: [https://github.com/Sean12697/MATLAB_Workshop_Intro](https://github.com/Sean12697/MATLAB_Workshop_Intro){:target="_blank"}
+- Eventbrite: []()
+- Github Project: [https://github.com/Sean12697/MATLAB_Workshop_Intro](https://github.com/Sean12697/MATLAB_Workshop_Intro)
 
 ## Intro to Node-Red
 *Hours: 5hrs (50hrs)*
@@ -133,8 +133,8 @@ Similar tp the other activities once we wrapped up the lab sheets, we were then 
 
 <!-- ### Links -->
 
-<!-- - Eventbrite: [](){:target="_blank"} -->
-<!-- - Github Project: [](){:target="_blank"} -->
+<!-- - Eventbrite: []() -->
+<!-- - Github Project: []() -->
 
 ## Intro to Mainframe Programming
 *Hours: 5hrs (55hrs)*
@@ -143,8 +143,8 @@ COMING SOON
 
 ### Links
 
-- Eventbrite: [https://www.eventbrite.co.uk/e/intro-to-mainframe-programming-5-award-hours-tickets-46034879564](https://www.eventbrite.co.uk/e/intro-to-mainframe-programming-5-award-hours-tickets-46034879564){:target="_blank"}
-- Github Project: [https://github.com/Sean12697/intro-to-mainframe-programming-cobol](https://github.com/Sean12697/intro-to-mainframe-programming-cobol){:target="_blank"}
+- Eventbrite: [https://www.eventbrite.co.uk/e/intro-to-mainframe-programming-5-award-hours-tickets-46034879564](https://www.eventbrite.co.uk/e/intro-to-mainframe-programming-5-award-hours-tickets-46034879564)
+- Github Project: [https://github.com/Sean12697/intro-to-mainframe-programming-cobol](https://github.com/Sean12697/intro-to-mainframe-programming-cobol)
 
 ## Intro to Node-RED
 *Hours: 6hrs (61hrs)*
@@ -153,8 +153,8 @@ COMING SOON
 
 ### Links
 
-- Eventbrite: https://www.eventbrite.co.uk/e/intro-to-node-red-programming-the-internet-of-things-5-award-hours-tickets-46035194506[](https://www.eventbrite.co.uk/e/intro-to-node-red-programming-the-internet-of-things-5-award-hours-tickets-46035194506){:target="_blank"}
-<!-- - Github Project: [](){:target="_blank"} -->
+- Eventbrite: https://www.eventbrite.co.uk/e/intro-to-node-red-programming-the-internet-of-things-5-award-hours-tickets-46035194506[](https://www.eventbrite.co.uk/e/intro-to-node-red-programming-the-internet-of-things-5-award-hours-tickets-46035194506)
+<!-- - Github Project: []() -->
 
 ## IoT: Building Smart Devices
 *Hours: 10hrs (71hrs)*
@@ -163,9 +163,9 @@ COMING SOON
 
 ### Links
 
-- Eventbrite (Part 1): [https://www.eventbrite.co.uk/e/internet-of-things-building-smart-devices-pt-1-of-2-5-award-hours-tickets-46037624775](https://www.eventbrite.co.uk/e/internet-of-things-building-smart-devices-pt-1-of-2-5-award-hours-tickets-46037624775){:target="_blank"}
-- Eventbrite (Part 2): [https://www.eventbrite.co.uk/e/internet-of-things-building-smart-devices-pt-2-of-2-5-award-hours-tickets-46038282743](https://www.eventbrite.co.uk/e/internet-of-things-building-smart-devices-pt-2-of-2-5-award-hours-tickets-46038282743){:target="_blank"}
-<!-- - Github Project: [](){:target="_blank"} -->
+- Eventbrite (Part 1): [https://www.eventbrite.co.uk/e/internet-of-things-building-smart-devices-pt-1-of-2-5-award-hours-tickets-46037624775](https://www.eventbrite.co.uk/e/internet-of-things-building-smart-devices-pt-1-of-2-5-award-hours-tickets-46037624775)
+- Eventbrite (Part 2): [https://www.eventbrite.co.uk/e/internet-of-things-building-smart-devices-pt-2-of-2-5-award-hours-tickets-46038282743](https://www.eventbrite.co.uk/e/internet-of-things-building-smart-devices-pt-2-of-2-5-award-hours-tickets-46038282743)
+<!-- - Github Project: []() -->
 
 ## 3D Printing Intro
 *Hours: 3hrs (74hrs)*
@@ -174,8 +174,8 @@ COMING SOON
 
 ### Links
 
-- Eventbrite: [https://www.eventbrite.co.uk/e/3d-printing-intro-run-2-take-a-laptop-3-award-hours-tickets-46038482340](https://www.eventbrite.co.uk/e/3d-printing-intro-run-2-take-a-laptop-3-award-hours-tickets-46038482340){:target="_blank"}
-<!-- - Github Project: [](){:target="_blank"} -->
+- Eventbrite: [https://www.eventbrite.co.uk/e/3d-printing-intro-run-2-take-a-laptop-3-award-hours-tickets-46038482340](https://www.eventbrite.co.uk/e/3d-printing-intro-run-2-take-a-laptop-3-award-hours-tickets-46038482340)
+<!-- - Github Project: []() -->
 
 ## Stereoscopic 3D Film
 *Hours: 3hrs (77hrs)*
@@ -184,8 +184,8 @@ COMING SOON
 
 <!-- ### Links -->
 
-<!-- - Eventbrite: [](){:target="_blank"} -->
-<!-- - Github Project: [](){:target="_blank"} -->
+<!-- - Eventbrite: []() -->
+<!-- - Github Project: []() -->
 
 ## Leadership & Teamwork Training - Army Style
 *Hours: 10hrs (87hrs)*
@@ -194,9 +194,9 @@ COMING SOON
 
 ### Links
 
-- Eventbrite (Part 1): [https://www.eventbrite.co.uk/e/leadership-teamwork-training-army-style-pt-1-of-2-5-award-hours-tickets-46041895549](https://www.eventbrite.co.uk/e/leadership-teamwork-training-army-style-pt-1-of-2-5-award-hours-tickets-46041895549){:target="_blank"}
-- Eventbrite (Part 2): [https://www.eventbrite.co.uk/e/leadership-teamwork-training-army-style-pt-2-of-2-5-award-hours-moved-to-thurs-31-may-tickets-46041876492](https://www.eventbrite.co.uk/e/leadership-teamwork-training-army-style-pt-2-of-2-5-award-hours-moved-to-thurs-31-may-tickets-46041876492){:target="_blank"}
-<!-- - Github Project: [](){:target="_blank"} -->
+- Eventbrite (Part 1): [https://www.eventbrite.co.uk/e/leadership-teamwork-training-army-style-pt-1-of-2-5-award-hours-tickets-46041895549](https://www.eventbrite.co.uk/e/leadership-teamwork-training-army-style-pt-1-of-2-5-award-hours-tickets-46041895549)
+- Eventbrite (Part 2): [https://www.eventbrite.co.uk/e/leadership-teamwork-training-army-style-pt-2-of-2-5-award-hours-moved-to-thurs-31-may-tickets-46041876492](https://www.eventbrite.co.uk/e/leadership-teamwork-training-army-style-pt-2-of-2-5-award-hours-moved-to-thurs-31-may-tickets-46041876492)
+<!-- - Github Project: []() -->
 
 ## MATLAB® for Scientists & Engineers / Research
 *Hours: 5hrs (93hrs)*
@@ -206,8 +206,8 @@ COMING SOON
 
 ### Links
 
-- Eventbrite: [https://www.eventbrite.co.uk/e/matlab-for-scientists-engineers-research-pt-1-of-2-5-award-hours-tickets-46043138266](https://www.eventbrite.co.uk/e/matlab-for-scientists-engineers-research-pt-1-of-2-5-award-hours-tickets-46043138266){:target="_blank"}
-<!-- - Github Project: [](){:target="_blank"} -->
+- Eventbrite: [https://www.eventbrite.co.uk/e/matlab-for-scientists-engineers-research-pt-1-of-2-5-award-hours-tickets-46043138266](https://www.eventbrite.co.uk/e/matlab-for-scientists-engineers-research-pt-1-of-2-5-award-hours-tickets-46043138266)
+<!-- - Github Project: []() -->
 
 ## Python Programming
 *Hours: 3hrs (96hrs)*
@@ -216,8 +216,8 @@ COMING SOON
 
 ### Links
 
-- Eventbrite: [https://www.eventbrite.co.uk/e/python-programming-next-steps-3-award-hour-tickets-46043265647](https://www.eventbrite.co.uk/e/python-programming-next-steps-3-award-hour-tickets-46043265647){:target="_blank"}
-- Github Project: [https://github.com/Sean12697/simple-python-games](https://github.com/Sean12697/simple-python-games){:target="_blank"}
+- Eventbrite: [https://www.eventbrite.co.uk/e/python-programming-next-steps-3-award-hour-tickets-46043265647](https://www.eventbrite.co.uk/e/python-programming-next-steps-3-award-hour-tickets-46043265647)
+- Github Project: [https://github.com/Sean12697/simple-python-games](https://github.com/Sean12697/simple-python-games)
 
 ## Python Matplotlib
 *Hours: 3hrs (99hrs)*
@@ -226,8 +226,8 @@ COMING SOON
 
 ### Links
 
-- Eventbrite: [https://www.eventbrite.co.uk/e/python-matplotlib-publication-quality-data-plotting-3-award-hours-tickets-46042963744](https://www.eventbrite.co.uk/e/python-matplotlib-publication-quality-data-plotting-3-award-hours-tickets-46042963744){:target="_blank"}
-<!-- - Github Project: [](){:target="_blank"} -->
+- Eventbrite: [https://www.eventbrite.co.uk/e/python-matplotlib-publication-quality-data-plotting-3-award-hours-tickets-46042963744](https://www.eventbrite.co.uk/e/python-matplotlib-publication-quality-data-plotting-3-award-hours-tickets-46042963744)
+<!-- - Github Project: []() -->
 
 ## Adventures in Chemiluminscence
 *Hours: 5hrs (104hrs)*
@@ -236,5 +236,5 @@ COMING SOON
 
 <!-- ### Links -->
 
-<!-- - Eventbrite: [](){:target="_blank"} -->
-<!-- - Github Project: [](){:target="_blank"} -->
+<!-- - Eventbrite: []() -->
+<!-- - Github Project: []() -->

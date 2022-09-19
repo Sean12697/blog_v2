@@ -17,8 +17,9 @@ import {
   RiSkypeFill,
   RiDribbbleFill,
   RiMediumFill,
-  RiBehanceFill,
+  RiBehanceFill
 } from "react-icons/ri"
+import { SiPolywork } from "react-icons/si";
 import { faTiktok, FaWordpress, FaVk } from "react-icons/fa"
 
 import Layout from "../components/layout"
@@ -194,6 +195,13 @@ const HomePage = ({ data }) => {
         {icons.icon === "vk" ? (
           <a href={icons.url} target="_blank" aria-label="link to vk" rel="noopener noreferrer">
             <FaVk alt="vk icon" />
+          </a>
+        ) : (
+          ""
+        )}
+        {icons.icon === "polywork" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Polywork" rel="noopener noreferrer">
+            <SiPolywork alt="Polywork icon" />
           </a>
         ) : (
           ""
