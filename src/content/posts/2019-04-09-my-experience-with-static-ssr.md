@@ -1,20 +1,23 @@
 ---
 template: blog-post
-title:  "My Experience with Static SSR"
-date:   2019-04-08 22:00
+title: My Experience with Static SSR
 slug: /my-experience-with-static-ssr
-description: Coming Soon
+date: 2019-04-08 22:00
+description: Recently I have been creating websites in a statically generated
+  way on a server, this being referred to as Static SSR (Server Side Rendering),
+  where a server essentially generates HTML files based on code written, then
+  those files are served to the user.
+featuredImage: /assets/d4yjua_x4aazezl.jpeg
 ---
+Recently, I have been creating websites in a statically generated way on a server. This is referred to as Static SSR (Server Side Rendering), where a server essentially generates HTML files based on code written, then those files are served to the user.
 
-Recently I have been creating websites in a statically generated way on a server, this being referred to as Static SSR (Server Side Rendering), where a server essentially generates HTML files based on code written, then those files are served to the user.
+There are two main reasons I initially delved into static SSR, the first was due to frustration with using Jekyll, which is currently, as of this writing, the framework my blog is on. Made by GitHub it is a way to drop simple markdown files into a folder and let everything else generate. Well, one of the many initial issues was getting third-party plug-ins to work being hosted on GitHub (which is free), which long story short is not allowed, then the second issue was no styling being applied to the blog when moved over, again (long story short) the "baseurl" needs to be set in the config file.
 
-There are two main reasons I initially delved into static SSR, the first was due to frustration in using Jekyll, which is currently as of writing is the framework my blog is on, made by GitHub it is a way drop simple markdown files into a folder and let everything else generate, simple. Well, one of many initial issues was getting third-party plug-ins to work being hosted on GitHub (which is free), which long story short is not allowed, then the second issue was no styling being applied to the blog when moved over, again (long story short) the "baseurl" needs to be set in the config file.
-
-Then second was to re-create my portfolio (again), which I wanted to do wth JSON (instead of markdown), rather than creating every page (or use a builder, since I like writing HTML/CSS/JavaScript). Although, this was just before I knew of the term SSR and the capabilities of Netlify.
+Then second was to recreate my portfolio (again), which I wanted to do with JSON (instead of markdown), rather than creating every page (or use a builder, since I like writing HTML/CSS/JavaScript). Although, this was just before I knew of the term SSR and the capabilities of Netlify.
 
 ## Quick MVP
 
-Before creating anything, I wanted to see how simple it would be to create a statically generated website, so using NodeJS (my language of choice) and its fs (file system) module, I created what can be seen in this [GitHub Repo](https://github.com/Sean12697/simple-static-site-generator). It's fairly basic and is used for demonstration purposes, but has the core principles of what was to become my current portfolio, a json object, custom string interpolation (concatenation) templating and `fs.writeFileSync()`.
+Before creating anything, I wanted to see how simple it would be to create a statically generated website, so using NodeJS (my language of choice) and its fs (file system) module, I created what can be seen in this [GitHub Repo](https://github.com/Sean12697/simple-static-site-generator). It's fairly basic and is used for demonstration purposes, but it has the core principles of what was to become my current portfolio, a json object, custom string interpolation (concatenation) templating and `fs.writeFileSync()`.
 
 ## Jekyll in NodeJS
 
@@ -22,21 +25,21 @@ For fun, before re-creating my portfolio, I thought I would try to recreate the 
 
 This was not too difficult to achieve, where I did the majority of within a few hours one Sunday night, since I was using an npm package (kramed) to convert the actual markdown into HTML, then the actual default Jekyll theme for mine (which I split into the core components).
 
-The GitHub Repo being [JekyllJS](https://github.com/Sean12697/JekyllJS), then it also being deployed on [Netlify](https://zealous-jang-b5c7b4.netlify.com/).
+The GitHub Repo is [JekyllJS](https://github.com/Sean12697/JekyllJS), it is also being deployed on [Netlify](https://zealous-jang-b5c7b4.netlify.com/).
 
-Although, there were a few key learning points that I should share, the first being always ensure you know where the root is, meaning if you're on index.html and go further in the site (into another folder), if your templates just have links to `./style.css` when you go to another folders html it will break, since there will likely not be a `./style.css` file (`../style.css` instead).
+Although, there were a few key learning points that I should share, the first being always ensure you know where the root is, meaning if you're on index.html and go further in the site (into another folder), if your templates just have links to `./style.css` when you go to another folder's html, it will break, since there will likely not be a `./style.css` file (`../style.css` instead).
 
-This can be seen when I use a `toRoot` variable in my Jekyll Clone's templates, which is my second learning point. Any reusable elements of HTML, often being referred to as components in popular JavaScript libraries, I store in a `_modules` folder, mainly being the head (with meta data), header and footer, then whole templates are stored in a `_layouts` folders (just a convention).
+This can be seen when I use a `toRoot` variable in my Jekyll Clone's templates, which is my second learning point. Any reusable elements of HTML, often referred to as components in popular JavaScript libraries, I store in a `_modules` folder, mainly the head (with meta data), header, and footer, then whole templates are stored in a `_layouts` folders (just a convention).
 
-Then the last two/three points are to do with folders/file, the first being if a folder doesn't exist for the fs module to create a file in, it will just fail. Due to this I use an npm package called `shelljs`, with this I can run `.mkdir('-p', './_site')` to always ensure that the folder is there, along with `copy-dir` to ensure static files like images are where they belong (`copydir.sync('./_static', './_site')`). Then the second point is the files that go in, I want to name the HTML files are their title, although not includes spaces and special characters, which is why I use regex to change all non-alphanumeric characters to dashes (with a function I can reuse).
+Then the last two or three points are to do with folders and file, the first being that if a folder doesn't exist for the fs module to create a file in, it will just fail. Due to this, I use an npm package called `shelljs`, with which I can run `.mkdir('-p', './_site')` to always ensure that the folder is there, along with `copy-dir` to ensure static files like images are where they belong (`copydir.sync('./_static', './_site')`). Then the second point is the files that go in, I want to name the HTML files by their titles, which do not include spaces or special characters, which is why I use regex to change all non-alphanumeric characters to dashes (with a function I can reuse).
 
 ## Portfolio (v4)
 
-With the above knowledge I was set to create the fourth iteration of [my portfolio](https://seanomahoney.com/), using the same index theme to its third iteration (being based of Spotify, since I love music), along with improving performance along the way (which static ssr helps with, that I cover in my talk), which I still thank [Harry Roberts](https://twitter.com/csswizardry) for and his "Front-end Performance" workshop (with 300+ slides that we got to keep).
+With the above knowledge, I was set to create the fourth iteration of [my portfolio](https://seanomahoney.com/), using the same index theme to its third iteration (being based of Spotify, since I love music), along with improving performance along the way (which static ssr helps with, that I cover in my talk), which I still thank [Harry Roberts](https://twitter.com/csswizardry) for and his "Front-end Performance" workshop (with 300+ slides that we got to keep).
 
 ### Tags
 
-Having tags on each item of my portfolio, each project, I can use handy JavaScript ES6 functions like map/filter/reduce to generate lists of items with certain tags (using the tags defined in all items), showing off what skills I most frequently use and most importantly where I have used them.
+Having tags on each item of my portfolio, each project, I can use handy JavaScript ES6 functions like map/filter/reduce to generate lists of items with certain tags (using the tags defined in all items), showing off what skills I most frequently use and most importantly, where I have used them.
 
 ### Meta Descriptions (SEO)
 
@@ -44,11 +47,11 @@ Due to having the text for each item, I can easily pass that into the head modul
 
 ### GitHub Repo Listing
 
-Using the `@octokit/rest` npm package, I can easily interact with the GitHub API without having to supply a token to retrieve a list of all my pubic GitHub repo, which using my templates and the `language` property, I can create lists of every repo corresponding to a particular programming language.
+Using the `@octokit/rest` npm package, I can easily interact with the GitHub API without having to supply a token to retrieve a list of all my pubic GitHub repo. Using my templates and the `language` property, I can create lists of every repo corresponding to a particular programming language.
 
 ### Minify
 
-Using npm's `minify` package, I wrote this simple function below that will overwrite an existing files content with a minified version, that being a version with all comments/spaces removed and generally made smaller.
+Using npm's `minify` package, I wrote this simple function below that will overwrite an existing file's content with a minified version, that being a version with all comments and spaces removed and generally made smaller.
 
 ```javascript
 function minifyFile(fileLocation) {
@@ -58,9 +61,9 @@ function minifyFile(fileLocation) {
 
 ### Blog Post Listing
 
-My blog having a site map, allows me to use the `node-fetch` npm package to simply fetch that xml into my code, then with the `xml-js` package I can simply convert this to JSON and traverse it to generate my blogs listing.
+My blog having a site map, allows me to use the `node-fetch` npm package to simply fetch that xml into my, and code, then with the `xml-js` package I can simply convert this to JSON and traverse it to generate my blogs listing.
 
-Although, similar to when I was converting titles/names into suitable file names, I created a function to do it in reverse (kinda), this will turn all dashes into spaces and then all words into capitalised versions.
+Although, similar to when I was converting titles and names into suitable file names, I created a function to do it in reverse (kinda). This will turn all dashes into spaces and then all words into capitalised versions.
 
 ```javascript
 function urlToText(url) {
@@ -70,7 +73,7 @@ function urlToText(url) {
 
 ### Sitemap
 
-For SEO purposes creating a sitemap is ideal, and was easy to implement, along with writing a file for everything, I also pushed a link to where it is into an array, which at the end of writing all the html files, I could call the following function I created.
+For SEO purposes creating a sitemap is ideal and was easy to implement. Along with writing a file for everything, I also pushed a link to where it is into an array, which, at the end of writing all the html files, I could call the following function I created.
 
 ```javascript
 function rtnSiteMap(array) {
