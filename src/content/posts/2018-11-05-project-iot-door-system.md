@@ -6,20 +6,17 @@ date: 2018-11-05 11:19
 description: Coming Soon
 featuredImage: https://i.imgur.com/CcYnZwt.png
 ---
-
 # Mobile App Development Assignment (IoT)
 
 Below is the opening paragraph of the assignment I will be working on, luckily it is quiet open without specified technologies to be used, which will allow me to build a complex back-end system in NodeJS with the use of MongoDB as the database technology of my choice.
 
 > This assignment involves the use of Mobile Device Development, Sensors and Location Awareness, and the Internet of Things. The idea is to develop a system to interact with some sensors and output devices; to interact with them via the Internet using a mobile device and server, and to show an understanding of the design of systems for the Internet of Things.
 
-![Rough Suggested Project Diagram](https://i.imgur.com/CcYnZwt.png)
-
 This is a rough diagram that we were given of how the system would interact and how we should build it, having three main tasks to complete:
 
-*   **IoT Devices (Servo & RFID)**: Connecting to a MQTT Broker (separately)
-*   **Server / DB**: Interact with the IoT Devices via the Broker and store values (logging usages, both successes and failures), verify RFID tags trying to unlock the Servo (Door) from stored values in the DB.
-*   **Android App**: Allow the user to unlock the Servo, view logs and be notified when there is an attempt to unlock the Servo
+* **IoT Devices (Servo & RFID)**: Connecting to a MQTT Broker (separately)
+* **Server / DB**: Interact with the IoT Devices via the Broker and store values (logging usages, both successes and failures), verify RFID tags trying to unlock the Servo (Door) from stored values in the DB.
+* **Android App**: Allow the user to unlock the Servo, view logs and be notified when there is an attempt to unlock the Servo
 
 As shown in the diagram it is suggested the the Android App connects to the MQTT Broker, to directly be able to unlock the Servo, although I have built my own diagram which will deviate from this.
 
@@ -33,24 +30,24 @@ This is how I plan to implement the required tasks for the assignment, being the
 
 Below is a rough order of what I plan to do in relation to aspects of my diagram:
 
-*   DB Tables / Collections Diagram
-*   API End-points
-*   Server Set-up
-*   Server MQTT Set-up
-*   MongoDB Set-up
-*   Clients (Phidget Devices)
-*   Android Layout Design
-*   Android App
-*   Firebase Cloud Messaging (*a form of Push Notifications)
+* DB Tables / Collections Diagram
+* API End-points
+* Server Set-up
+* Server MQTT Set-up
+* MongoDB Set-up
+* Clients (Phidget Devices)
+* Android Layout Design
+* Android App
+* Firebase Cloud Messaging (*a form of Push Notifications)
 
 ## DB Tables / Collections
 
 Looking at the interactions I will need and data that will be stored, here are the rough collections (tables / columns below) and documents (properties / rows) that are to be implemented:
 
 | Users        | Devices            | Tags            | Logs            |
-| :-----------:|:------------------:|:---------------:|:---------------:|
+| ------------ | ------------------ | --------------- | --------------- |
 | ID           | ID                 | ID              | Device ID       |
-| Username     | User ID (Belongs)  | Device ID       | Type (Val/User) | 
+| Username     | User ID (Belongs)  | Device ID       | Type (Val/User) |
 | Password     | Name (For User)    | Type (Val/User) | Value/Username  |
 | Access Token | Broker             | Value Accepted  | Access/Failure  |
 |              | Username? (Broker) |                 | Timestamp       |
@@ -71,7 +68,7 @@ All successful responses will have a code of 200, responses below referring to t
 URL Params might state `:username` & `:password`, that will convert to a structure like `/[Path]]?[Param]=:[Param]&[Param_2]=:[Param_2]`, converted to a call of `/signup?username=:username&password=:password`;
 
 | Title       | Sign Up                             |
-|:-----------:|:----------------------------------- |
+| ----------- | ----------------------------------- |
 | Path        | `/signup`                           |
 | Method      | POST                                |
 | URL Params  | Required: `:username` & `:password` |
@@ -82,28 +79,28 @@ URL Params might state `:username` & `:password`, that will convert to a structu
 
 ### Devices
 
-| Title       | Add Device                                      |
-|:-----------:|:----------------------------------------------- |
-| Path        | `/device`                                       |
-| Method      | POST                                            |
-| URL Params  | Required: `:broker`, `:topic` & `:type`        |
-|             | Optional: `:name`, `:username` & `:password`    |
-| Body Params | `username=[text]`, `token=[text]`               |
-| Response    | `{ id: "" }`                                    |
+| Title       | Add Device                                                                                                      |
+| ----------- | --------------------------------------------------------------------------------------------------------------- |
+| Path        | `/device`                                                                                                       |
+| Method      | POST                                                                                                            |
+| URL Params  | Required: `:broker`, `:topic` & `:type`                                                                         |
+|             | Optional: `:name`, `:username` & `:password`                                                                    |
+| Body Params | `username=[text]`, `token=[text]`                                                                               |
+| Response    | `{ id: "" }`                                                                                                    |
 | Notes       | `:name` = "Garage"?, `:type` = "pub" or "sub" & `:username` / `:password` refers to the location/broker you use |
 
-| Title       | Update Device                                   |
-|:-----------:|:----------------------------------------------- |
-| Path        | `/device`                                       |
-| Method      | UPDATE                                          |
-| URL Params  | Required: `:id`                                 |
-|             | Optional: `:broker`, `:topic`, `:type`, `:name`, `:username` & `:password`    |
-| Body Params | `username=[text]`, `token=[text]`               |
-| Response    |                                                 |
-| Notes       |                                                 |
+| Title       | Update Device                                                              |
+| ----------- | -------------------------------------------------------------------------- |
+| Path        | `/device`                                                                  |
+| Method      | UPDATE                                                                     |
+| URL Params  | Required: `:id`                                                            |
+|             | Optional: `:broker`, `:topic`, `:type`, `:name`, `:username` & `:password` |
+| Body Params | `username=[text]`, `token=[text]`                                          |
+| Response    |                                                                            |
+| Notes       |                                                                            |
 
 | Title       | Remove Device                     |
-|:-----------:|:--------------------------------- |
+| ----------- | --------------------------------- |
 | Path        | `/device`                         |
 | Method      | DELETE                            |
 | URL Params  | Required: `:id`                   |
@@ -115,27 +112,27 @@ URL Params might state `:username` & `:password`, that will convert to a structu
 ### Tags
 
 | Title       | Add Tag                                                |
-|:-----------:|:------------------------------------------------------ |
+| ----------- | ------------------------------------------------------ |
 | Path        | `/tag`                                                 |
 | Method      | POST                                                   |
 | URL Params  | Required: `:device_id`, `:type` & `:value`             |
 |             | Optional: N/A                                          |
 | Body Params | `username=[text]`, `token=[text]`                      |
-| Response    |  `{ id: [text] }`                                      |
+| Response    | `{ id: [text] }`                                       |
 | Notes       | `:type` = "Tag" or "User", then `:value` being of that |
 
-| Title       | Update Tag                                             |
-|:-----------:|:------------------------------------------------------ |
-| Path        | `/tag`                                                 |
-| Method      | UPDATE                                                 |
-| URL Params  | Required: `:id`                                        |
-|             | Optional: `:device_id`, `:type` & `:value`             |
-| Body Params | `username=[text]`, `token=[text]`                      |
-| Response    |                                                        |
-| Notes       |                                                        |
+| Title       | Update Tag                                 |
+| ----------- | ------------------------------------------ |
+| Path        | `/tag`                                     |
+| Method      | UPDATE                                     |
+| URL Params  | Required: `:id`                            |
+|             | Optional: `:device_id`, `:type` & `:value` |
+| Body Params | `username=[text]`, `token=[text]`          |
+| Response    |                                            |
+| Notes       |                                            |
 
 | Title       | Remove Tag                        |
-|:-----------:|:--------------------------------- |
+| ----------- | --------------------------------- |
 | Path        | `/tag`                            |
 | Method      | DELETE                            |
 | URL Params  | Required: `:id`                   |
@@ -146,15 +143,15 @@ URL Params might state `:username` & `:password`, that will convert to a structu
 
 ### Others
 
-| Title       | Get Logs                          |
-|:-----------:|:--------------------------------- |
-| Path        | `/logs`                           |
-| Method      | GET                               |
-| URL Params  | Required: N/A                     |
-|             | Optional: N/A                     |
-| Body Params | `username=[text]`, `token=[text]` |
+| Title       | Get Logs                                                                                  |
+| ----------- | ----------------------------------------------------------------------------------------- |
+| Path        | `/logs`                                                                                   |
+| Method      | GET                                                                                       |
+| URL Params  | Required: N/A                                                                             |
+|             | Optional: N/A                                                                             |
+| Body Params | `username=[text]`, `token=[text]`                                                         |
 | Response    | `[{ id: [text], type: [text], value: [text], accessed: [bool], timestamp: [time] }, ...]` |
-| Notes       |                                   |
+| Notes       |                                                                                           |
 
 ## Server Setup
 
