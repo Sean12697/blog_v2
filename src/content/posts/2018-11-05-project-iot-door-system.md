@@ -1,9 +1,10 @@
 ---
 template: blog-post
-title:  "Project - IoT Door System"
-date:   2018-11-05 11:19
+title: Project - IoT Door System
 slug: project-iot-door-system
+date: 2018-11-05 11:19
 description: Coming Soon
+featuredImage: https://i.imgur.com/CcYnZwt.png
 ---
 
 # Mobile App Development Assignment (IoT)
