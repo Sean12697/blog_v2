@@ -2,7 +2,7 @@
 template: blog-post
 title:  "Google Hash Code 2019"
 date:   2019-02-28 23:00
-slug: google-hash-code-2019
+slug: /google-hash-code-2019
 description: Coming Soon
 ---
 

@@ -2,7 +2,7 @@
 template: blog-post
 title:  "[Hackathon #6] - GreatUniHack 18"
 date:   2018-11-11 20:00
-slug: hackathon-6-greatunihack18
+slug: /hackathon-6-greatunihack18
 description: Coming Soon
 ---
 

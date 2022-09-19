@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Project - IoT Door System
-slug: project-iot-door-system
+slug: /project-iot-door-system
 date: 2018-11-05 11:19
 description: Coming Soon
 featuredImage: /assets/CcYnZwt.png

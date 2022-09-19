@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "[Conference #3] - OggCamp 18"
-slug: conference-3-oggcamp-18
+slug: /conference-3-oggcamp-18
 date: 2018-08-18 22:00
 description: Coming Soon
 featuredImage: /assets/Dk31VPGXgAAT-y2.jpeg
