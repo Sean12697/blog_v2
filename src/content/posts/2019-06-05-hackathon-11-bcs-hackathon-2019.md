@@ -1,11 +1,11 @@
 ---
 template: blog-post
-title:  "[Hackathon #11] - BCS Hackathon 2019"
-date:   2019-06-05 23:00
+title: "[Hackathon #11] - BCS Hackathon 2019"
 slug: /hackathon-11-bcs-hackathon-2019
+date: 2019-06-05 23:00
 description: Coming Soon
+featuredImage: https://pbs.twimg.com/media/D8YAJ71XkAAInQ4?format=jpg&name=4096x4096
 ---
-
 This is the first hackathon I am attending along with my co-founder, [Ben Grubert](https://twitter.com/Ben_Grubert), which is of benefit since we both complement each other in terms of skills and abilities (working well together). Due to this, we did have a few prior discussions on ideas before the hack'.
 
 ## Initial Idea
@@ -24,16 +24,16 @@ On the day Ben gave a pitch of our idea and we then tried to recruit others onto
 
 After discussions with a few people, our final team ended up with the following members:
 
-- [Me](https://www.linkedin.com/in/sean12697/) (Full Stack Developer)
-- [Ben Grubert](https://www.linkedin.com/in/ben-grubert-0a7b71b7/) (Manager)
-- [Panagiota Mitropoulou](https://www.linkedin.com/in/panagiota-mitropoulou-5b8a92107/) (Clinician)
-- [Rishabh Rawal](https://www.linkedin.com/in/rawalrishabh/) (Java Developer)
+* [Me](https://www.linkedin.com/in/sean12697/) (Full Stack Developer)
+* [Ben Grubert](https://www.linkedin.com/in/ben-grubert-0a7b71b7/) (Manager)
+* [Panagiota Mitropoulou](https://www.linkedin.com/in/panagiota-mitropoulou-5b8a92107/) (Clinician)
+* [Rishabh Rawal](https://www.linkedin.com/in/rawalrishabh/) (Java Developer)
 
 Panagiota was of particular benefit, being that she has more knowledge about the inner workings of wards also.
 
 ## Idea Refinement
 
-After much more discussion we decided to focus on improving the first aid box, potentially making it "Smart", the idea being to comply with law and in the case of an emergency, that a first aid box would always be full to meet demand.
+After much more discussion, we decided to focus on improving the first aid box, potentially making it "Smart", the idea being to comply with law and in the case of an emergency, that a first aid box would always be full to meet demand.
 
 Going further from this we could also augment the user experience by including a phone inside the box, or a pre-recorded message for certain items, allowing those with little to no knowledge to be able to aid someone in need.
 
@@ -41,7 +41,7 @@ From this point there were the legal ramifications to research, what are the spe
 
 ## Research
 
-The first piece of reseach to be done was on what specific regulations do first-aid boxes fall under, which we quickly found to be "The Health and Safety (First-Aid) Regulations 1981", where Regulation 3 (Duty of employer to make provision for first-aid) covered most of our questions.
+The first piece of research to be done was on what specific regulations do first-aid boxes fall under, which we quickly found to be "The Health and Safety (First-Aid) Regulations 1981", where Regulation 3 (Duty of employer to make provision for first-aid) covered most of our questions.
 
 > Every employer should provide for each work site at least one first-aid container supplied with a sufficient quantity of first-aid materials suitable for the particular circumstances.
 
@@ -67,23 +67,23 @@ This idea was very close to Ben, due to the times he has been in hospital and if
 
 After discussing features, viability and naming it Nestle (the definition being "settle or lie comfortably within or against something"), a couple of team members had to pop out for other meetings, which left three areas to be developed by the second day:
 
-### Qualitative Research 
+### Qualitative Research
 
 Ben lead the Qualitative Research, visiting Manchester Royal Eye Hospital to conduct surveys and doing a few interviews, which lead to the concluding that our platform is wanted and if implemented, would be used.
 
-### Quantitative Research 
+### Quantitative Research
 
 Panagiota mainly lead Quantitative Research, finding the following papers to back our idea and provide statistics for the business case (combined with figures from [NHS Reference Costs](https://improvement.nhs.uk/resources/reference-costs/)):
 
-- Britteon et al (2017). Association between psychological health and wound complications after surgery. British Journal of Surgery.​
-- Broadbent, E., Petrie, K. J., Alley, P. G., & Booth, R. J. (2003). Psychological stress impairs early wound repair following surgery. Psychosomatic Medicine.
+* Britteon et al (2017). Association between psychological health and wound complications after surgery. British Journal of Surgery.​
+* Broadbent, E., Petrie, K. J., Alley, P. G., & Booth, R. J. (2003). Psychological stress impairs early wound repair following surgery. Psychosomatic Medicine.
 
 [Ryan Kerstein](https://twitter.com/Ryan_L_K), one of the very helpful mentors and a Surgeon, was able to bring up the statistic, although unfortunately no sources (apart from one we found previously through NHS complaints).
 
-- 47% Increase in Surgical Complications
-- 33% Complaints due to poor communication
-- 70,000 Last-minute cancellations
-- £1,200/hour cost to one theatre
+* 47% Increase in Surgical Complications
+* 33% Complaints due to poor communication
+* 70,000 Last-minute cancellations
+* £1,200/hour cost to one theatre
 
 ### Base Development (Messaging Platform)
 
@@ -91,8 +91,8 @@ Me and Rishabh stayed until near 6PM to ensure that we has a service made that c
 
 Using Twillio we were successfully able to send out the following pair of text messages to any given phone numbers (which would be demoed in our presentation):
 
-- MR FIRSTNAME LASTNAME, you are scheduled for an operation in five days’ time, we suggest you click the following link to login to our new service, NESTLE.
-- MR FIRSTNAME LASTNAME, a next of kin is scheduled for an operation in five days’ time, to track his progress we suggest you click the following link to login to our new service, NESTLE.
+* MR FIRSTNAME LASTNAME, you are scheduled for an operation in five days’ time, we suggest you click the following link to login to our new service, NESTLE.
+* MR FIRSTNAME LASTNAME, a next of kin is scheduled for an operation in five days’ time, to track his progress we suggest you click the following link to login to our new service, NESTLE.
 
 ## Day 2
 
