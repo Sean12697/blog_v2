@@ -101,5 +101,3 @@ Luckily Robin had produced a finished [example interaction video](https://www.yo
 We went first with this then the other teams demoed (which can be seen on [Hack Dash](https://hackdash.org/dashboards/suhackjam)), they were all very interesting their own regards, but once we had all finished we voted for which we thought was best over the three areas.
 
 Our team ended up winning for "Most Original Concept" and do hope to work on it more and together, along with keeping in touch with everyone else especially the amazing organisers and mentors.
-
-![Most Original Concept Photo](https://pbs.twimg.com/media/D0gk_dEW0AA8RwH.jpg:large)
