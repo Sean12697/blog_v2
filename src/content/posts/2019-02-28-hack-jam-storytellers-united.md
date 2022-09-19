@@ -4,7 +4,7 @@ title: Hack Jam - Storytellers United
 slug: /hack-jam-storytellers-united
 date: 2019-02-28 20:00
 description: Coming Soon
-featuredImage: https://pbs.twimg.com/media/D0gk_dEW0AA8RwH.jpg:large
+featuredImage: /assets/D0gk_dEW0AA8RwH.jpg
 ---
 
 This event was emailed to us through our student email by Peter McKenna, it was promoted as a "BBC Digital Cities Hackathon" with the following content:

@@ -4,7 +4,7 @@ title: Challenge - Village Software Data Quest
 slug: /challenge-village-software-data-quest
 date: 2018-04-20 20:00
 description: Coming Soon
-featuredImage: https://villagesoftware.co.uk/media/1233/_dsc6146-2.jpg
+featuredImage: /assets/_dsc6146-2.jpg
 ---
 We were pointed towards the "[Village Data Quest](https://villagesoftware.co.uk/data-quest)" by [Matthew Crossley](https://twitter.com/MattyCrossley) through our student email and I was personally intrigued, especially with a description of what the challenge would entail (partly), that being the text given below:
 

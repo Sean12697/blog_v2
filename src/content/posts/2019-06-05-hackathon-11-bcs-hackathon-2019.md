@@ -4,7 +4,7 @@ title: "[Hackathon #11] - BCS Hackathon 2019"
 slug: /hackathon-11-bcs-hackathon-2019
 date: 2019-06-05 23:00
 description: Coming Soon
-featuredImage: https://pbs.twimg.com/media/D8YAJ71XkAAInQ4?format=jpg&name=4096x4096
+featuredImage: /assets/D8YAJ71XkAAInQ4.jpeg
 ---
 This is the first hackathon I am attending along with my co-founder, [Ben Grubert](https://twitter.com/Ben_Grubert), which is of benefit since we both complement each other in terms of skills and abilities (working well together). Due to this, we did have a few prior discussions on ideas before the hack'.
 

@@ -4,7 +4,7 @@ title: Project - IoT Door System
 slug: project-iot-door-system
 date: 2018-11-05 11:19
 description: Coming Soon
-featuredImage: https://i.imgur.com/CcYnZwt.png
+featuredImage: /assets/CcYnZwt.png
 ---
 # Mobile App Development Assignment (IoT)
 

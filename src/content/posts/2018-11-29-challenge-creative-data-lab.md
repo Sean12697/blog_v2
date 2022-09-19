@@ -4,7 +4,7 @@ title: Challenge - Creative Data Lab
 slug: /challenge-creative-data-lab
 date: 2018-11-29 17:00
 description: Coming Soon
-featuredImage: https://i.imgur.com/JD3bbWT.jpg
+featuredImage: /assets/JD3bbWT.jpg
 ---
 
 This event was made aware to us from an email we received through the forum of our faculty, there wasn't much information to work from ahead of time before signing up to the event, on the line below to describe the general idea of the lab:
