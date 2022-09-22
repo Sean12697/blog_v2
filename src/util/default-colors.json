@@ -1,3 +1,4 @@
 {
-  "siteColor": "#5C2941"
+  "siteColor": "#5C2941",
+  "bwImageFilter": "invert(16%) sepia(40%) saturate(157%) hue-rotate(310deg) brightness(90%) contrast(120%)"
 }
