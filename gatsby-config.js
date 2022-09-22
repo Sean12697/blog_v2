@@ -59,10 +59,7 @@ module.exports = {
                 MarkdownRemark: {
                   template: node => node.frontmatter.template,
                   title: node => node.frontmatter.title,
-                  slug: node => 
-                  node.frontmatter.template.trim() == "blog-post" ? 
-                  `blog/${node.frontmatter.date.trim().split()[0].replace(/-/gm, "/")}/${node.frontmatter.slug}` : 
-                  node.frontmatter.slug,
+                  slug: node => node.frontmatter.slug,
                 },
               },
               // Optional filter to limit indexed nodes
