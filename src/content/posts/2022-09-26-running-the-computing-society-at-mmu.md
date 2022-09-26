@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Running the Computing Society at MMU
-slug: running-the-computing-society-at-mmu
+title: Running the MMU Computing Society
+slug: running-the-mmu--computing-society
 date: 2021-10-16 22:06
 description: Recently, I received a message from one of my former lecturers on
   behalf of a student who wished to reestablish the MMU Computing Society. I'll
