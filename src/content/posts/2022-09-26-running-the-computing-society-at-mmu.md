@@ -15,7 +15,9 @@ In broad terms, at the Computing Society, we hosted and promoted events that wou
 
 ## General Advice
 
-Before I break down the various types of events we used to host and promote at the Computing Society, I will give some general advice and list some pieces of information that might be useful to know if you wish to run a society. It is worth noting that it is not crucial to know every piece of information that I am going to discuss before even thinking about creating or getting involved in organising a society, and the Students Union is there to assist you in every step of the process.
+Before I break down the various types of events we used to host and promote at the Computing Society, I will give some general advice and list some pieces of information that might be useful to know if you wish to run a society. It is worth noting that it is not crucial to know every piece of information that I am going to discuss before even thinking about creating or getting involved in organising a society, and the Students Union is there to assist you in every step of the process. 
+
+It must also be noted that all I am giving is advice. There is often a resources page on your students' union website, such as the [MMU Students' Union Commitee Resources](https://www.theunionmmu.org/your-voice/committee-resources), which covers topics more in-depth and gives more official guidance.
 
 ### Roles
 
