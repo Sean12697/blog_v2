@@ -83,13 +83,9 @@ This explains why I was excited to hear about a "Retro Games Night" happening in
 
 ### Git / Github
 
-**What to do TL:DR;** Demonstrate your portfolio and collaborations.
+**What to do TL:DR;** Learn a useful industry skill and demonstrate your portfolio.
 
 **The detail.** Github, or any source control implementation, is one of the most useful industry skills to have. It effectively bypasses the need to hand around USB devices with code and cuts through a bunch of other manual tasks that should stay in the 20th century.
-
-**One career highlight from my experience**. COMING SOON
-
-**One fun highlight from my experience**. COMING SOON
 
 ### Social Media
 
