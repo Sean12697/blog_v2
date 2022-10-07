@@ -16,7 +16,9 @@ The roles and awards are the following: Peer Mentor (2018), 2nd Year Computer Sc
 
 ## Recommendation Areas
 
-Beyond ensuring that you stay on top of your course work and grades, there are a myriad of different extra-curricular activities you could engage in to help boost your career and have an enjoyable time, both inside and outside of university. My goal is to break those down into a few distinct areas, providing a brief overview, going into some detail, giving examples from Man Met if possible, and then giving highlights from my own personal experience, one from a career and then one from a fun perspective. 
+Beyond ensuring that you stay on top of your course work and grades, there are a myriad of different extra-curricular activities you could engage in to help boost your career and have an enjoyable time, both inside and outside of university. 
+
+My goal is to break those down into a few distinct areas, providing a brief overview, going into some detail, giving examples from Man Met if possible, and then giving highlights from my own personal experience, one from a career and then one from a fun perspective. 
 
 ### Activities
 
@@ -26,13 +28,16 @@ Beyond ensuring that you stay on top of your course work and grades, there are a
 
 **At Manchester Metropolitan University**. There are the [Faculty of Science and Engineering Extracurricular Activities](https://www.mmu.ac.uk/science-engineering/enrichment/extracurricular-award/), which I have given examples of in my [blog post](https://blog.seanomahoney.com/extra-curricular-awards-activities).
 
-**One career highlight from my experience**. COMING SOON
+**One career highlight from my experience**. At MMU, we had a building called The Shed, this was "the home of Digital Innovation at Manchester Metropolitan University" and hosted several activity events, both for students at the university and external events that people outside of the university could attend. Because I attended so many events there, Hayley Walsh, the Relationship and Events Coordinator, became very familiar with myself, my abilities, and my knowledge of the Manchester Technology Scene.
+
+
+This led to her putting me in touch with a person who needed some technology developed. I had an initial conversation with this person and quickly got up to speed on the project and its goals, deciding that it was within my abilities as a developer. As a second-year university student, I was able to earn a few hundred on the side and demonstrate real project work on my portfolio.
 
 **One fun highlight from my experience**. Randomly, I chose to participate in "Adventures in Chemiluminescence" (Making Things Glow) on a whim. This certainly didn't boost my career potential in the area in which I wanted to go, although it was the reason why I knew one of my best friends in my final year of university.
 
 ### The Union / Societies
 
-**The what.** Find a group (society) of peers with common interests.
+**What to do TL:DR;** Find a group (society) of peers with common interests.
 
 **The detail.** Universities often have over a hundred societies, and it's often not too difficult to find one that you will find interesting. These range from fun generic societies like the Rock (Music), Nerd and Gaming Societies, to the more academic societies such as the Computing Society.
 
@@ -42,19 +47,21 @@ Beyond ensuring that you stay on top of your course work and grades, there are a
 
 ### Events
 
-**The what.** Attend professional events outside of the university.
+**What to do TL:DR;** Attend professional events outside of the university.
 
 **The detail.** If you are studying a technology, creative, or business course, there are very likely to be events happening in your area that have relevance to both what you are learning and can be useful to accelerate your career. These range from socials to networking events and conferences, all of which give you the opportunity to learn from experienced people and often provide free refreshments and/or swag.
 
 **At Manchester Metropolitan University.** Attending events was one area in which I found myself doing quite a lot of, and because of that, being the computer scientist I am, I created an automated tool called [CompiledMCR](https://compiledmcr.com/) that aggregates such events from a variety of online sources. This is a free and open-source tool that was started during my studies at MMU, and I still heavily encourage any students there to use it.
 
-**One career highlight from my experience**. Studying in Manchester City Centre and living in Salford makes any event happening in Salford more appealing due to it being closer to home, meaning I can usually stay out longer with less cost. This explains why I was excited to hear about a "Retro Games Night" happening in MediaCity, half way between university and home. The first one I attended was on [Feb. 15, 2019](https://www.eventbrite.ie/e/mediacity-rumble-retro-games-night-tickets-56121865009), and after a couple more of those events, I started talking to an individual called Ben Grubert, who founded a company called INEVITABLE... The rest is history.
+**One career highlight from my experience**. Studying in Manchester City Centre and living in Salford makes any event happening in Salford more appealing due to it being closer to home, meaning I can usually stay out longer with less cost. 
+
+This explains why I was excited to hear about a "Retro Games Night" happening in MediaCity, half way between university and home. The first one I attended was on [Feb. 15, 2019](https://www.eventbrite.ie/e/mediacity-rumble-retro-games-night-tickets-56121865009), and after a couple more of those events, I started talking to an individual called Ben Grubert, who founded a company called INEVITABLE... The rest is history.
 
 **One fun highlight from my experience**. COMING SOON
 
 ### Hackathons
 
-**The what.** Attend any event of any duration where people come together to solve problems.
+**What to do TL:DR;** Attend any event of any duration where people come together to solve problems.
 
 **The detail.** They are a great way to quickly learn new skills, boost your career, and often provide a wealth of free swag, such as drinks, food, t-shirts, socks, USB sticks, hats, and plenty more (all real examples of free goodies I have received before).
 
@@ -66,7 +73,7 @@ Beyond ensuring that you stay on top of your course work and grades, there are a
 
 ### Projects
 
-**The what.** Build your portfolio and don't be a sheep.
+**What to do TL:DR;** Build your portfolio and don't be a sheep.
 
 **The detail.** Start learning about topics you are passionate about and the tools required to develop those topics, such as Data Science and Python respectively, to give an example. Choose a project or challenge that is a little hard for you (and will require you to learn more over time), finish the project or challenge, document it, post it to GitHub and your resume, and then repeat the process while learning more and adding to your portfolio.
 
@@ -76,7 +83,7 @@ Beyond ensuring that you stay on top of your course work and grades, there are a
 
 ### Git / Github
 
-**The what.** Demonstrate your portfolio and collaborations.
+**What to do TL:DR;** Demonstrate your portfolio and collaborations.
 
 **The detail.** Github, or any source control implementation, is one of the most useful industry skills to have. It effectively bypasses the need to hand around USB devices with code and cuts through a bunch of other manual tasks that should stay in the 20th century.
 
@@ -86,7 +93,7 @@ Beyond ensuring that you stay on top of your course work and grades, there are a
 
 ### Social Media
 
-**The what.** Engage online with professionals.
+**What to do TL:DR;** Engage online with professionals.
 
 **The detail.** It's important to note that professionals, or people with more experience than yourself, should not be scary or intimidating; they are people just like the rest of us. Speaking with and following such professionals on peer-to-peer platforms like Twitter is a great way to stay up to date on any relevant events that are happening and to find people to engage with on specific topics.
 
