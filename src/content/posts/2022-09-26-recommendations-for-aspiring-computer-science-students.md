@@ -6,7 +6,7 @@ date: 2019-09-29 21:23
 description: According to tutors, I am one of my university's "top graduates,"
   and I want to talk about my experience studying Computer Science and how I got
   to where I am.
-featuredImage: /assets/carousel-image-5.jpg
+featuredImage: /assets/incollage_20221007_161901779.jpg
 ---
 According to tutors, I am one of my university's "top graduates," and I want to talk about my experience studying Computer Science and how I got to where I am.
 
