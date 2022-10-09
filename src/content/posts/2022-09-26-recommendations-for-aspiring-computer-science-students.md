@@ -12,24 +12,23 @@ According to tutors, I am one of my university's "top graduates," and I want to 
 
 To demonstrate and hopefully motivate what can be accomplished during your university studies, not only did I graduate with first-class honours from Manchester Metropolitan University and participate in a diverse range of extra-curricular activities, which I will discuss later in this blog post, but I also have the following roles and awards that I have specifically had as a student: I am effectively the "ex-Daenerys Targaryen" of the Department of Computing and Mathematics.
 
-The roles and awards are the following: Peer Mentor (2018), 2nd Year Computer Science Rep (2017/18), Secretary of the Computing Society (2017/18), Academic Representative for the Societies Council (2017/18), Freelancer for AaH! (previously Humanity Hallows) the official MMU Student Magazine (2017–18), Chair of the Photography Society (shortlisted for [Most Improved Society of the Year](https://www.theunionmmu.org/articles/society-awards-2018-shortlists-announced), 2017–18), Workshop Lead for the Faculty of Arts and Humanities (2018), [Shortlisted as Committee Member of the Year](https://www.theunionmmu.org/articles/society-awards-2018-shortlists-announced) (2018), [Chair of the Computing Society](https://blog.seanomahoney.com/blog/running-the-mmu--computing-society) (2018–19), received the Faculty of Science and Engineering Extracurricular Award (both 2018 and 2019), and received a [Societies Honours](https://www.theunionmmu.org/opportunities/societies-awards/2019-winners) Award from the Students Union (2019); that's a lot.
+The roles and awards are the following: Peer Mentor (2018), 2nd Year Computer Science Rep (2017/18), Secretary of the Computing Society (2017/18), Academic Representative for the Societies Council (2017/18), Freelancer for AaH! (previously Humanity Hallows) the official MMU Student Magazine (2017–18), Chair of the Photography Society (shortlisted for [Most Improved Society of the Year](https://www.theunionmmu.org/articles/society-awards-2018-shortlists-announced), 2017–18), Workshop Lead for the Faculty of Arts and Humanities (2018), [Shortlisted as Committee Member of the Year](https://www.theunionmmu.org/articles/society-awards-2018-shortlists-announced) (2018), [Chair of the Computing Society](https://blog.seanomahoney.com/running-the-mmu--computing-society) (2018–19), received the Faculty of Science and Engineering Extracurricular Award (both 2018 and 2019), and received a [Societies Honours](https://www.theunionmmu.org/opportunities/societies-awards/2019-winners) Award from the Students Union (2019); that's a lot.
 
 ## Recommendation Areas
 
 Beyond ensuring that you stay on top of your course work and grades, there are a myriad of different extra-curricular activities you could engage in to help boost your career and have an enjoyable time, both inside and outside of university. 
 
-My goal is to break those down into a few distinct areas, providing a brief overview, going into some detail, giving examples from Man Met if possible, and then giving highlights from my own personal experience, one from a career and then one from a fun perspective. 
+My goal is to break those down into a few distinct areas, providing a brief overview, going into some detail, giving examples from Man Met if possible, and then giving highlights from my own personal experience, one from a career perspective and one from a fun perspective. 
 
-### Activities
+### University Hosted Activities
 
-**The what**. Attend workshops, which the university often hosts.
+**What to do TL:DR;** Attend workshops, which the university often hosts.
 
 **The detail**. Your course often has a set curriculum that is only reviewed on a set basis, every four years, for example, and usually has restrictions on any professor who wishes to teach any more industry-relevant or soft skills. Because of this, tutors or passionate students often put on additional activities to learn such topics, either related to their course or for other students who are interested in learning more about that topic in general.
 
 **At Manchester Metropolitan University**. There are the [Faculty of Science and Engineering Extracurricular Activities](https://www.mmu.ac.uk/science-engineering/enrichment/extracurricular-award/), which I have given examples of in my [blog post](https://blog.seanomahoney.com/extra-curricular-awards-activities).
 
 **One career highlight from my experience**. At MMU, we had a building called The Shed, this was "the home of Digital Innovation at Manchester Metropolitan University" and hosted several activity events, both for students at the university and external events that people outside of the university could attend. Because I attended so many events there, Hayley Walsh, the Relationship and Events Coordinator, became very familiar with myself, my abilities, and my knowledge of the Manchester Technology Scene.
-
 
 This led to her putting me in touch with a person who needed some technology developed. I had an initial conversation with this person and quickly got up to speed on the project and its goals, deciding that it was within my abilities as a developer. As a second-year university student, I was able to earn a few hundred on the side and demonstrate real project work on my portfolio.
 
