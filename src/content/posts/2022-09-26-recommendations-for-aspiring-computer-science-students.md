@@ -92,7 +92,7 @@ This was also the project I talked to Ben about when I met him at the Retro Game
 
 **What to do TL:DR;** Learn a useful industry skill and demonstrate your portfolio.
 
-**The detail.** Github, or any source control implementation, is one of the most useful industry skills to have. It effectively bypasses the need to hand around USB devices with code and cuts through a bunch of other manual tasks that should stay in the 20th century.
+**The detail.** Github, or any source control implementation, is one of the most useful industry skills to have. It effectively bypasses the need to hand around USB devices with code and cuts through a bunch of other manual tasks that should stay in the 20th century. I mainly include this as a separate section to projects because in my second-year Professional Development unit it was only mentioned in passing as a thing we *might* want to look at, which I want to avoid doing and emphasise the usefulness of it. Luckily, after my cohort, that module was revamped and included a new Developing Your Professionalism (DYP) element, now replaced by Industry and Community Engagement (ICE).
 
 ### Social Media
 
