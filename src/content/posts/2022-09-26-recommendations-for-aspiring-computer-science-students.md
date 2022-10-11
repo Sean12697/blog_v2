@@ -74,9 +74,9 @@ My second story comes from BSides 2018, a conference for people interested in (m
 
 **At Manchester Metropolitan University.** Pre-COVID, we used to have three main on-going hackathons that used to run annually on campus: ManMetHacks, StudentHacks, and GreatUniHacks.
 
-**One career-progressing highlight from my experience**. COMING SOON
+**One career-progressing highlight from my experience**. Being second place at the British Cardiovascular Society Hackathon 2018, both because that earn me a prize of £300 as a second-year student, and because when I went back [the year later representing INEVITABLE we won first place](https://blog.seanomahoney.com/hackathon-11-bcs-hackathon-2019).
 
-**One fun highlight from my experience**. COMING SOON
+**One fun highlight from my experience**. There have been a variety of fun projects I have worked on while participating in hackathons, from the Company of Silicon game to the Party Parrot social media platform, but ultimately, the most fun project was SlackChat. It was set on a simple premise, and I have written a [blog post](https://blog.seanomahoney.com/hackathon-6-greatunihack18) that describes my experience in much more detail.
 
 ### Projects
 
