@@ -4,6 +4,7 @@ title: "[Hackathon #6] - GreatUniHack 18"
 slug: /hackathon-6-greatunihack18
 date: 2018-11-11 20:00
 description: Coming Soon
+featuredImage: /assets/68747470733a2f2f692e696d6775722e636f6d2f4976736661734c2e6a7067.jpeg
 ---
 This is the first Hackathon I have attended with a rough team, being a peer on my course ([Pritam Sangani](https://twitter.com/pritamsangani)), as well as a few ideas for what we will produce.
 
