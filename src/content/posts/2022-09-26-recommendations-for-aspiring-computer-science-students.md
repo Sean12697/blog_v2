@@ -20,9 +20,9 @@ Aside from making sure you keep up with your classes and grades, there are a lot
 
 My goal is to break those down into a few distinct areas, providing a brief overview of what to do, going into some detail over that, giving examples from Man Met if possible, and then giving highlights from my own personal experience, one from a career-progressing perspective and one from a fun and personally memorable perspective.
 
-### University Hosted Activities
+### Activities
 
-**What to do TL:DR;** Attend workshops, which the university often hosts.
+**What to do TL:DR;** Attend university hosted extracurricular activities.
 
 **The detail**. Your course often has a set curriculum that is only reviewed on a set basis, every four years, for example, and usually has restrictions on any professor who wishes to teach any more industry-relevant or soft skills. Because of this, tutors or passionate students often put on additional activities to learn such topics, either related to their course or for other students who are interested in learning more about that topic in general.
 
@@ -36,7 +36,7 @@ This led to her putting me in touch with a person who needed some technology dev
 
 ### The Union / Societies
 
-**What to do TL:DR;** Find a group (society) of peers with common interests.
+**What to do TL:DR;** Find a group (society) of peers which share common interests.
 
 **The detail.** Universities often have over a hundred societies, and it's often not too difficult to find one that you will find interesting. These range from fun generic societies like the Rock (Music), Nerd and Gaming Societies, to the more academic societies such as the Computing Society.
 
