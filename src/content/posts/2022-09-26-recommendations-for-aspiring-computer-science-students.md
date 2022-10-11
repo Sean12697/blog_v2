@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Recommendations for aspiring Computer Science Students
+title: Tips, Advice and Recommendations for Computer Science Students
 slug: recommendations-for-aspiring-computer-science-students
 date: 2019-09-29 21:23
 description: According to tutors, I am one of my university's "top graduates,"
