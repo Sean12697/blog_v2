@@ -56,7 +56,7 @@ Because of this, I jogged down to Zombie Shack in between attending an overnight
 
 **One career-progressing highlight from my experience**. Studying in Manchester City Centre and living in Salford makes any event happening in Salford more appealing due to it being closer to home, meaning I can usually stay out longer with less cost. 
 
-This explains why I was excited to hear about a "Retro Games Night" happening in MediaCity, half way between university and home. The first one I attended was on [Feb. 15, 2019](https://www.eventbrite.ie/e/mediacity-rumble-retro-games-night-tickets-56121865009), and after a couple more of those events, I started talking to an individual called Ben Grubert, who founded a company called INEVITABLE... The rest is history.
+This explains why I was excited to hear about a "Retro Games Night" happening in MediaCity, half way between university and home. The first one I attended was on [Feb. 15, 2019](https://www.eventbrite.ie/e/mediacity-rumble-retro-games-night-tickets-56121865009), and after a couple more of those events, I started talking to an individual called Ben Grubert, who founded a company called [INEVITABLE](https://inevitableinnovations.com/)... The rest is history.
 
 **One fun highlight from my experience**. Out of the over three hundred events that I have attended, it's difficult to choose just one, which is why I will bend my own rules slightly and give two highlights. The first is more appealing to students, while the second brings back pleasant memories.
 
@@ -92,7 +92,9 @@ This was also the project I talked to Ben about when I met him at the Retro Game
 
 **What to do TL:DR;** Learn a useful industry skill and demonstrate your portfolio.
 
-**The detail.** Github, or any source control implementation, is one of the most useful industry skills to have. It effectively bypasses the need to hand around USB devices with code and cuts through a bunch of other manual tasks that should stay in the 20th century. I mainly include this as a separate section to projects because in my second-year Professional Development unit it was only mentioned in passing as a thing we *might* want to look at, which I want to avoid doing and emphasise the usefulness of it. Luckily, after my cohort, that module was revamped and included a new Developing Your Professionalism (DYP) element, now replaced by Industry and Community Engagement (ICE).
+**The detail.** Github, or any source control implementation, is one of the most useful industry skills to have. It effectively bypasses the need to hand around USB devices with code and cuts through a bunch of other manual tasks that should stay in the 20th century. 
+
+I mainly include this as a separate section to projects because in my second-year Professional Development unit it was only mentioned in passing as a thing we *might* want to look at, which I want to avoid doing and emphasise the usefulness of it. Luckily, after my cohort, that module was revamped and included a new Developing Your Professionalism (DYP) element, now replaced by Industry and Community Engagement (ICE).
 
 ### Social Media
 
