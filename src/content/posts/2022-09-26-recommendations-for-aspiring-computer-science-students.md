@@ -40,9 +40,11 @@ This led to her putting me in touch with a person who needed some technology dev
 
 **The detail.** Universities often have over a hundred societies, and it's often not too difficult to find one that you will find interesting. These range from fun generic societies like the Rock (Music), Nerd and Gaming Societies, to the more academic societies such as the Computing Society.
 
-**One career-progressing highlight from my experience**. COMING SOON
+**One career-progressing highlight from my experience**. Running the Computing Society. This gave me a wide range of additional skills and knowledge, all of which contribute towards career progression, including my Emergency First Aid at Work qualification, which I only received because I was the chair. If anyone reads this and is interested in running one, I have written about the actions I took while running it in a separate [blog post](https://blog.seanomahoney.com/running-the-mmu--computing-society).
 
-**One fun highlight from my experience**. COMING SOON
+**One fun highlight from my experience**. Not only did I run two societies at university, but I must have been a member of over a dozen more. At a certain point in time, Panic at the Disco had a concert on, but as a student, the price of a ticket to see them was far too high for me at the time. 
+
+Because of this, I jogged down to Zombie Shack in between attending an overnight hackathon, where there was a MySpace emo night, which was effectively a PTD afterparty, where several members of the Rock Society, including myself, met up and had a GREAT time. I barely bought a drink and certainly screamed my lungs out, as it should be, before running back to the hackathon and having a nap.
 
 ### Events
 
@@ -56,7 +58,13 @@ This led to her putting me in touch with a person who needed some technology dev
 
 This explains why I was excited to hear about a "Retro Games Night" happening in MediaCity, half way between university and home. The first one I attended was on [Feb. 15, 2019](https://www.eventbrite.ie/e/mediacity-rumble-retro-games-night-tickets-56121865009), and after a couple more of those events, I started talking to an individual called Ben Grubert, who founded a company called INEVITABLE... The rest is history.
 
-**One fun highlight from my experience**. COMING SOON
+**One fun highlight from my experience**. Out of the over three hundred events that I have attended, it's difficult to choose just one, which is why I will bend my own rules slightly and give two highlights. The first is more appealing to students, while the second brings back pleasant memories.
+
+
+It's quite well known that the type of events I frequent often supply free beer as a refreshment, and occasionally there is a surplus supply. After one particular event back in 2018, there were two full 18x boxes of Corona beers that were not opened. As a joke, I asked the organiser of the event who I knew if I could have them; he said yes. They certainly weren't easy to carry. Getting them to the bus station, which was too far away, was a struggle, which is why when I got off the bus close to home, I faced a challenge. This concluded with probably the best £3 I have spent as a student, which was on a taxi to transport around £30 of beer home.
+
+
+My second story comes from BSides 2018, a conference for people interested in (mostly) cyber security that was held in the business school at my university. At the time, I only knew a few people attending from the Manchester Tech Scene, but not much more. Closer to the end of the event, I met May while I was filling my bag with free swag given away by several sponsors. We started talking, and I went with them to the after-party, where OggCamp was mentioned, another conference that focuses on Open Source and was happening the [next day in Sheffield](https://blog.seanomahoney.com/conference-3-oggcamp-18). I knew no one going, apart from May, so I booked a train ticket that night, and I don't regret it, I made a few friends, and hanging out with May and their friends was especially hilarious, even if I was [frightened after calling them out for using a knife and fork to eat a burger](https://twitter.com/Sean12697/status/1030908159718776832).
 
 ### Hackathons
 
