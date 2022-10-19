@@ -68,7 +68,9 @@ My second story comes from BSides 2018, a conference for people interested in (m
 
 **What to do TL:DR;** Join coding groups to learn and eventually mentor.
 
-**The detail.** Even though you are formally studying, it still doesn't mean you know everything just yet and won't need assistance, which is where coding groups can assist greatly, although they should not be used to get other people to do your coursework for you. Not only can these groups answer any technical questions you may have and help you figure out how to solve them, but mentors may also be able to tell you about other opportunities. Then, hopefully after your first year and somewhat into your second year, you should have learnt just about enough on your course to start helping other attendees of these coding groups with basic coding tasks, which will both help you to communicate and enforce your understanding of various concepts, but it will also look great on your CV.
+**The detail.** Even though you are formally studying, it still doesn't mean you know everything just yet and won't need assistance, which is where coding groups can assist greatly, although they should not be used to get other people to do your coursework for you. Not only can these groups answer any technical questions you may have and help you figure out how to solve them, but mentors may also be able to tell you about other opportunities. 
+
+Then, hopefully after your first year and somewhat into your second year, you should have learnt just about enough on your course to start helping other attendees of these coding groups with basic coding tasks, which will both help you to communicate and enforce your understanding of various concepts, but it will also look great on your CV.
 
 **At Manchester Metropolitan University.** in Manchester, there are several coding groups, although after COVID only a few have started back up again, one of those being [CodeWith](https://codewith.org.uk/), which has effectively taken the role of CodeUp and was started by several organisers of CodeUp branches, including myself.
 
