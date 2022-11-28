@@ -16,6 +16,10 @@ Beginning with Git commit [b2daed0](https://github.com/Sean12697/MeetupMancheste
 
 A great example of this was the [React Meetup group](https://twitter.com/mancreact), which commonly met in MadLab, and attendees occasionally said to other attendees, "I'm interested in learning about Angular as well; if only there was a Meetup group for that," to which I used to reply, "Actually, there is one, and it meets here monthly as well; open up Meetup...," and then the rest was history.
 
+![Initial CompiledMCR Website](/assets/mcrmeetuptech.jpeg "Initial CompiledMCR Website")
+
+[12:04 AM · Jan 3, 2018](https://twitter.com/Sean12697/status/948344176730570752)
+
 This commit only pulled data from the Meetup API at the time, which is now deprecated, although it fulfilled the goals at the time and did not require the manual entering of events, which the TechNW calendar did; instead, only groups were required to be entered and the rest was automated; not too bad for a night's work by a second-year Computer Science student at the time.
 
 From there, its features and goals met both the maker's and the Manchester Technology Community. It's local knowledge that Meetup comprises the majority of technology networking events, generally, although both the TechNW calendar and Eventbrite hold the details for many more. 
